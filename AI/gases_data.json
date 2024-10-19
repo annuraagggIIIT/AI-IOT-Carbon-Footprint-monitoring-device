@@ -1,0 +1,8002 @@
+[
+    {
+        "lpg": 14859.23,
+        "smoke": 106382.71,
+        "alcohol": 415.89,
+        "methane": 0.7,
+        "co": 168.11,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14854.56,
+        "smoke": 106360.45,
+        "alcohol": 415.63,
+        "methane": 0.7,
+        "co": 168.09,
+        "flammable_gas": 64.57
+    },
+    {
+        "lpg": 14866.43,
+        "smoke": 106452.52,
+        "alcohol": 416.11,
+        "methane": 0.7,
+        "co": 167.98,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14860.77,
+        "smoke": 106303.6,
+        "alcohol": 415.41,
+        "methane": 0.7,
+        "co": 168.04,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14840.85,
+        "smoke": 106457.88,
+        "alcohol": 415.9,
+        "methane": 0.7,
+        "co": 168.12,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14843.35,
+        "smoke": 106280.98,
+        "alcohol": 416.19,
+        "methane": 0.7,
+        "co": 168.11,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14842.04,
+        "smoke": 106309.41,
+        "alcohol": 416.09,
+        "methane": 0.7,
+        "co": 167.98,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14847.51,
+        "smoke": 106289.55,
+        "alcohol": 415.54,
+        "methane": 0.7,
+        "co": 167.81,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14852.92,
+        "smoke": 106306.93,
+        "alcohol": 415.72,
+        "methane": 0.7,
+        "co": 167.98,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14869.18,
+        "smoke": 106290.04,
+        "alcohol": 415.69,
+        "methane": 0.7,
+        "co": 167.98,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14850.9,
+        "smoke": 106320.98,
+        "alcohol": 416.18,
+        "methane": 0.7,
+        "co": 167.86,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14844.04,
+        "smoke": 106312.68,
+        "alcohol": 415.63,
+        "methane": 0.7,
+        "co": 167.86,
+        "flammable_gas": 64.57
+    },
+    {
+        "lpg": 14843.5,
+        "smoke": 106339.43,
+        "alcohol": 415.64,
+        "methane": 0.7,
+        "co": 168.13,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14854.78,
+        "smoke": 106298.47,
+        "alcohol": 415.81,
+        "methane": 0.7,
+        "co": 167.89,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14858.44,
+        "smoke": 106313.65,
+        "alcohol": 415.72,
+        "methane": 0.7,
+        "co": 167.98,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14853.68,
+        "smoke": 106392.59,
+        "alcohol": 415.72,
+        "methane": 0.7,
+        "co": 167.84,
+        "flammable_gas": 64.69
+    },
+    {
+        "lpg": 14856.99,
+        "smoke": 106356.74,
+        "alcohol": 416.2,
+        "methane": 0.7,
+        "co": 168.03,
+        "flammable_gas": 64.57
+    },
+    {
+        "lpg": 14861.04,
+        "smoke": 106381.78,
+        "alcohol": 416.16,
+        "methane": 0.7,
+        "co": 167.88,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14862.47,
+        "smoke": 106422.53,
+        "alcohol": 415.42,
+        "methane": 0.7,
+        "co": 168.02,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14856.74,
+        "smoke": 106305.24,
+        "alcohol": 415.55,
+        "methane": 0.7,
+        "co": 167.98,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14855.44,
+        "smoke": 106331.61,
+        "alcohol": 416.09,
+        "methane": 0.7,
+        "co": 168.01,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14860.22,
+        "smoke": 106431.67,
+        "alcohol": 415.96,
+        "methane": 0.7,
+        "co": 168.06,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14865.43,
+        "smoke": 106416.08,
+        "alcohol": 416.14,
+        "methane": 0.7,
+        "co": 167.84,
+        "flammable_gas": 64.57
+    },
+    {
+        "lpg": 14849.15,
+        "smoke": 106372.96,
+        "alcohol": 415.67,
+        "methane": 0.7,
+        "co": 167.83,
+        "flammable_gas": 64.69
+    },
+    {
+        "lpg": 14868.87,
+        "smoke": 106450.66,
+        "alcohol": 415.92,
+        "methane": 0.7,
+        "co": 167.91,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14845.53,
+        "smoke": 106261.55,
+        "alcohol": 415.72,
+        "methane": 0.7,
+        "co": 168.07,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14845.72,
+        "smoke": 106342.7,
+        "alcohol": 415.45,
+        "methane": 0.7,
+        "co": 168.1,
+        "flammable_gas": 64.57
+    },
+    {
+        "lpg": 14867.73,
+        "smoke": 106352.58,
+        "alcohol": 415.68,
+        "methane": 0.7,
+        "co": 167.93,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14853.81,
+        "smoke": 106408.57,
+        "alcohol": 415.62,
+        "methane": 0.7,
+        "co": 168.04,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14851.4,
+        "smoke": 106260.2,
+        "alcohol": 415.79,
+        "methane": 0.7,
+        "co": 168.07,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14861.21,
+        "smoke": 106291.35,
+        "alcohol": 415.57,
+        "methane": 0.7,
+        "co": 168.1,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14851.08,
+        "smoke": 106411.22,
+        "alcohol": 416.06,
+        "methane": 0.7,
+        "co": 167.87,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14859.67,
+        "smoke": 106298.81,
+        "alcohol": 416.11,
+        "methane": 0.7,
+        "co": 167.99,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14851.35,
+        "smoke": 106454.07,
+        "alcohol": 416.13,
+        "methane": 0.7,
+        "co": 168.02,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14855.61,
+        "smoke": 106462.4,
+        "alcohol": 415.44,
+        "methane": 0.7,
+        "co": 167.87,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14854.95,
+        "smoke": 106412.85,
+        "alcohol": 415.54,
+        "methane": 0.7,
+        "co": 168.09,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14840.59,
+        "smoke": 106334.56,
+        "alcohol": 416.18,
+        "methane": 0.7,
+        "co": 167.97,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14861.08,
+        "smoke": 106422.7,
+        "alcohol": 415.49,
+        "methane": 0.7,
+        "co": 168.04,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14848.36,
+        "smoke": 106342.56,
+        "alcohol": 415.9,
+        "methane": 0.7,
+        "co": 167.94,
+        "flammable_gas": 64.69
+    },
+    {
+        "lpg": 14863.25,
+        "smoke": 106408.18,
+        "alcohol": 415.4,
+        "methane": 0.7,
+        "co": 168.06,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14852.66,
+        "smoke": 106332.82,
+        "alcohol": 415.85,
+        "methane": 0.7,
+        "co": 168.02,
+        "flammable_gas": 64.65
+    },
+    {
+        "lpg": 14846.98,
+        "smoke": 106463.95,
+        "alcohol": 416.16,
+        "methane": 0.7,
+        "co": 167.91,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14861.17,
+        "smoke": 106411.51,
+        "alcohol": 415.51,
+        "methane": 0.7,
+        "co": 168.08,
+        "flammable_gas": 64.69
+    },
+    {
+        "lpg": 14845.64,
+        "smoke": 106384.04,
+        "alcohol": 416.19,
+        "methane": 0.7,
+        "co": 167.82,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14854.46,
+        "smoke": 106336.24,
+        "alcohol": 415.82,
+        "methane": 0.7,
+        "co": 167.9,
+        "flammable_gas": 64.69
+    },
+    {
+        "lpg": 14865.81,
+        "smoke": 106365.03,
+        "alcohol": 415.7,
+        "methane": 0.7,
+        "co": 168.07,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14851.15,
+        "smoke": 106329.64,
+        "alcohol": 416.09,
+        "methane": 0.7,
+        "co": 168.03,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14843.46,
+        "smoke": 106304.56,
+        "alcohol": 416.08,
+        "methane": 0.7,
+        "co": 167.86,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14861.34,
+        "smoke": 106435.3,
+        "alcohol": 415.96,
+        "methane": 0.7,
+        "co": 167.99,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14862.62,
+        "smoke": 106295.02,
+        "alcohol": 415.81,
+        "methane": 0.7,
+        "co": 168.02,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14869.18,
+        "smoke": 106421.12,
+        "alcohol": 415.85,
+        "methane": 0.7,
+        "co": 167.86,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14848.98,
+        "smoke": 106327.23,
+        "alcohol": 416.18,
+        "methane": 0.7,
+        "co": 167.93,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14860.92,
+        "smoke": 106442.33,
+        "alcohol": 416.05,
+        "methane": 0.7,
+        "co": 167.86,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14867.74,
+        "smoke": 106312.2,
+        "alcohol": 415.41,
+        "methane": 0.7,
+        "co": 167.99,
+        "flammable_gas": 64.69
+    },
+    {
+        "lpg": 14858.69,
+        "smoke": 106261.64,
+        "alcohol": 415.39,
+        "methane": 0.7,
+        "co": 167.81,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14863.47,
+        "smoke": 106370.91,
+        "alcohol": 415.52,
+        "methane": 0.7,
+        "co": 168.12,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14863.86,
+        "smoke": 106432.02,
+        "alcohol": 415.59,
+        "methane": 0.7,
+        "co": 168.07,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14843.2,
+        "smoke": 106373.76,
+        "alcohol": 415.59,
+        "methane": 0.7,
+        "co": 167.87,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14868.63,
+        "smoke": 106384.24,
+        "alcohol": 415.84,
+        "methane": 0.7,
+        "co": 168.14,
+        "flammable_gas": 64.57
+    },
+    {
+        "lpg": 14854.38,
+        "smoke": 106400.47,
+        "alcohol": 415.55,
+        "methane": 0.7,
+        "co": 167.82,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14865.4,
+        "smoke": 106336.4,
+        "alcohol": 415.46,
+        "methane": 0.7,
+        "co": 168.06,
+        "flammable_gas": 64.65
+    },
+    {
+        "lpg": 14861.31,
+        "smoke": 106274.03,
+        "alcohol": 416.18,
+        "methane": 0.7,
+        "co": 167.93,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14862.78,
+        "smoke": 106268.05,
+        "alcohol": 416.02,
+        "methane": 0.7,
+        "co": 167.81,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14848.39,
+        "smoke": 106369.66,
+        "alcohol": 415.64,
+        "methane": 0.7,
+        "co": 167.96,
+        "flammable_gas": 64.69
+    },
+    {
+        "lpg": 14843.98,
+        "smoke": 106456.78,
+        "alcohol": 416.06,
+        "methane": 0.7,
+        "co": 168.04,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14869.75,
+        "smoke": 106412.59,
+        "alcohol": 416.03,
+        "methane": 0.7,
+        "co": 168.04,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14842.62,
+        "smoke": 106438.63,
+        "alcohol": 415.56,
+        "methane": 0.7,
+        "co": 168.11,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14861.63,
+        "smoke": 106296.33,
+        "alcohol": 415.64,
+        "methane": 0.7,
+        "co": 168.02,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14846.77,
+        "smoke": 106367.37,
+        "alcohol": 415.92,
+        "methane": 0.7,
+        "co": 167.94,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14862.31,
+        "smoke": 106274.57,
+        "alcohol": 415.81,
+        "methane": 0.7,
+        "co": 167.83,
+        "flammable_gas": 64.69
+    },
+    {
+        "lpg": 14866.39,
+        "smoke": 106457.66,
+        "alcohol": 415.89,
+        "methane": 0.7,
+        "co": 167.98,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14851.85,
+        "smoke": 106357.75,
+        "alcohol": 415.8,
+        "methane": 0.7,
+        "co": 168.03,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14840.39,
+        "smoke": 106344.14,
+        "alcohol": 415.94,
+        "methane": 0.7,
+        "co": 167.97,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14864.97,
+        "smoke": 106272.4,
+        "alcohol": 415.99,
+        "methane": 0.7,
+        "co": 167.97,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14842.51,
+        "smoke": 106312.04,
+        "alcohol": 416.03,
+        "methane": 0.7,
+        "co": 167.91,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14845.16,
+        "smoke": 106441.2,
+        "alcohol": 415.68,
+        "methane": 0.7,
+        "co": 168.11,
+        "flammable_gas": 64.65
+    },
+    {
+        "lpg": 14854.67,
+        "smoke": 106335.71,
+        "alcohol": 415.43,
+        "methane": 0.7,
+        "co": 167.84,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14847.64,
+        "smoke": 106390.61,
+        "alcohol": 415.68,
+        "methane": 0.7,
+        "co": 167.83,
+        "flammable_gas": 64.57
+    },
+    {
+        "lpg": 14844.52,
+        "smoke": 106285.08,
+        "alcohol": 416.18,
+        "methane": 0.7,
+        "co": 167.81,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14859.29,
+        "smoke": 106348.7,
+        "alcohol": 415.66,
+        "methane": 0.7,
+        "co": 167.93,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14857.19,
+        "smoke": 106345.9,
+        "alcohol": 415.71,
+        "methane": 0.7,
+        "co": 167.86,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14856.33,
+        "smoke": 106421.86,
+        "alcohol": 415.68,
+        "methane": 0.7,
+        "co": 168.04,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14858.51,
+        "smoke": 106376.02,
+        "alcohol": 415.86,
+        "methane": 0.7,
+        "co": 167.94,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14842.27,
+        "smoke": 106432.69,
+        "alcohol": 415.5,
+        "methane": 0.7,
+        "co": 167.88,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14849.06,
+        "smoke": 106430.57,
+        "alcohol": 415.49,
+        "methane": 0.7,
+        "co": 167.96,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14847.55,
+        "smoke": 106318.87,
+        "alcohol": 415.94,
+        "methane": 0.7,
+        "co": 167.97,
+        "flammable_gas": 64.69
+    },
+    {
+        "lpg": 14863.26,
+        "smoke": 106462.62,
+        "alcohol": 416.2,
+        "methane": 0.7,
+        "co": 168.12,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14852.53,
+        "smoke": 106276.22,
+        "alcohol": 415.52,
+        "methane": 0.7,
+        "co": 168.09,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14857.61,
+        "smoke": 106256.41,
+        "alcohol": 415.81,
+        "methane": 0.7,
+        "co": 168.09,
+        "flammable_gas": 64.69
+    },
+    {
+        "lpg": 14862.05,
+        "smoke": 106408.25,
+        "alcohol": 415.43,
+        "methane": 0.7,
+        "co": 167.87,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14850.31,
+        "smoke": 106305.4,
+        "alcohol": 415.61,
+        "methane": 0.7,
+        "co": 168.08,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14852.3,
+        "smoke": 106281.59,
+        "alcohol": 415.55,
+        "methane": 0.7,
+        "co": 167.96,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14850.21,
+        "smoke": 106386.4,
+        "alcohol": 415.5,
+        "methane": 0.7,
+        "co": 167.98,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14859.25,
+        "smoke": 106450.88,
+        "alcohol": 416.12,
+        "methane": 0.7,
+        "co": 168.06,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14848.59,
+        "smoke": 106443.13,
+        "alcohol": 416.07,
+        "methane": 0.7,
+        "co": 167.97,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14843.49,
+        "smoke": 106435.26,
+        "alcohol": 415.61,
+        "methane": 0.7,
+        "co": 167.89,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14861.73,
+        "smoke": 106321.28,
+        "alcohol": 415.66,
+        "methane": 0.7,
+        "co": 168.01,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14845.89,
+        "smoke": 106335.01,
+        "alcohol": 415.52,
+        "methane": 0.7,
+        "co": 167.89,
+        "flammable_gas": 64.65
+    },
+    {
+        "lpg": 14858.67,
+        "smoke": 106416.43,
+        "alcohol": 416.05,
+        "methane": 0.7,
+        "co": 167.85,
+        "flammable_gas": 64.57
+    },
+    {
+        "lpg": 14840.51,
+        "smoke": 106298.07,
+        "alcohol": 415.63,
+        "methane": 0.7,
+        "co": 168.03,
+        "flammable_gas": 64.69
+    },
+    {
+        "lpg": 14861.17,
+        "smoke": 106267.61,
+        "alcohol": 415.99,
+        "methane": 0.7,
+        "co": 168.07,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14867.33,
+        "smoke": 106382.36,
+        "alcohol": 416.01,
+        "methane": 0.7,
+        "co": 168.08,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14857.09,
+        "smoke": 106261.71,
+        "alcohol": 415.7,
+        "methane": 0.7,
+        "co": 168.05,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14843.46,
+        "smoke": 106424.75,
+        "alcohol": 415.39,
+        "methane": 0.7,
+        "co": 167.87,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14841.14,
+        "smoke": 106316.68,
+        "alcohol": 415.61,
+        "methane": 0.7,
+        "co": 168.05,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14864.55,
+        "smoke": 106387.55,
+        "alcohol": 415.75,
+        "methane": 0.7,
+        "co": 167.98,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14863.24,
+        "smoke": 106433.99,
+        "alcohol": 415.76,
+        "methane": 0.7,
+        "co": 167.94,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14855.68,
+        "smoke": 106319.21,
+        "alcohol": 415.55,
+        "methane": 0.7,
+        "co": 168.1,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14847.59,
+        "smoke": 106318.64,
+        "alcohol": 415.45,
+        "methane": 0.7,
+        "co": 168.1,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14851.03,
+        "smoke": 106364.28,
+        "alcohol": 416.18,
+        "methane": 0.7,
+        "co": 167.9,
+        "flammable_gas": 64.57
+    },
+    {
+        "lpg": 14845.73,
+        "smoke": 106415.05,
+        "alcohol": 415.96,
+        "methane": 0.7,
+        "co": 168.08,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14868.32,
+        "smoke": 106398.3,
+        "alcohol": 415.5,
+        "methane": 0.7,
+        "co": 168.03,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14858.31,
+        "smoke": 106282.22,
+        "alcohol": 415.87,
+        "methane": 0.7,
+        "co": 168.02,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14856.5,
+        "smoke": 106417.88,
+        "alcohol": 415.59,
+        "methane": 0.7,
+        "co": 167.87,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14841.28,
+        "smoke": 106457.81,
+        "alcohol": 416.2,
+        "methane": 0.7,
+        "co": 168.12,
+        "flammable_gas": 64.65
+    },
+    {
+        "lpg": 14864.61,
+        "smoke": 106276.3,
+        "alcohol": 415.48,
+        "methane": 0.7,
+        "co": 167.97,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14869.23,
+        "smoke": 106442.58,
+        "alcohol": 415.72,
+        "methane": 0.7,
+        "co": 168.04,
+        "flammable_gas": 64.69
+    },
+    {
+        "lpg": 14863.8,
+        "smoke": 106383.53,
+        "alcohol": 416.12,
+        "methane": 0.7,
+        "co": 168.08,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14868.1,
+        "smoke": 106394.2,
+        "alcohol": 415.9,
+        "methane": 0.7,
+        "co": 167.85,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14864.69,
+        "smoke": 106395.09,
+        "alcohol": 415.97,
+        "methane": 0.7,
+        "co": 167.81,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14854.79,
+        "smoke": 106438.68,
+        "alcohol": 415.49,
+        "methane": 0.7,
+        "co": 167.94,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14856.32,
+        "smoke": 106328.97,
+        "alcohol": 415.54,
+        "methane": 0.7,
+        "co": 168.04,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14867.12,
+        "smoke": 106451.21,
+        "alcohol": 416.19,
+        "methane": 0.7,
+        "co": 168.0,
+        "flammable_gas": 64.65
+    },
+    {
+        "lpg": 14840.67,
+        "smoke": 106264.42,
+        "alcohol": 415.67,
+        "methane": 0.7,
+        "co": 168.05,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14860.07,
+        "smoke": 106332.83,
+        "alcohol": 415.53,
+        "methane": 0.7,
+        "co": 167.88,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14861.73,
+        "smoke": 106403.8,
+        "alcohol": 416.17,
+        "methane": 0.7,
+        "co": 167.86,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14860.94,
+        "smoke": 106336.91,
+        "alcohol": 415.78,
+        "methane": 0.7,
+        "co": 168.03,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14864.55,
+        "smoke": 106371.37,
+        "alcohol": 416.05,
+        "methane": 0.7,
+        "co": 167.92,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14862.76,
+        "smoke": 106458.97,
+        "alcohol": 415.72,
+        "methane": 0.7,
+        "co": 167.95,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14846.39,
+        "smoke": 106363.65,
+        "alcohol": 416.07,
+        "methane": 0.7,
+        "co": 167.89,
+        "flammable_gas": 64.57
+    },
+    {
+        "lpg": 14869.79,
+        "smoke": 106376.63,
+        "alcohol": 415.52,
+        "methane": 0.7,
+        "co": 168.1,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14840.83,
+        "smoke": 106258.1,
+        "alcohol": 415.82,
+        "methane": 0.7,
+        "co": 167.9,
+        "flammable_gas": 64.57
+    },
+    {
+        "lpg": 14843.63,
+        "smoke": 106312.62,
+        "alcohol": 415.81,
+        "methane": 0.7,
+        "co": 168.06,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14860.69,
+        "smoke": 106392.34,
+        "alcohol": 416.08,
+        "methane": 0.7,
+        "co": 168.13,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14857.63,
+        "smoke": 106367.54,
+        "alcohol": 415.6,
+        "methane": 0.7,
+        "co": 168.04,
+        "flammable_gas": 64.57
+    },
+    {
+        "lpg": 14853.65,
+        "smoke": 106405.24,
+        "alcohol": 416.09,
+        "methane": 0.7,
+        "co": 167.89,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14854.18,
+        "smoke": 106434.63,
+        "alcohol": 415.49,
+        "methane": 0.7,
+        "co": 167.97,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14857.57,
+        "smoke": 106254.24,
+        "alcohol": 415.99,
+        "methane": 0.7,
+        "co": 167.95,
+        "flammable_gas": 64.69
+    },
+    {
+        "lpg": 14846.99,
+        "smoke": 106321.98,
+        "alcohol": 415.97,
+        "methane": 0.7,
+        "co": 167.81,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14865.36,
+        "smoke": 106295.61,
+        "alcohol": 415.84,
+        "methane": 0.7,
+        "co": 167.86,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14850.37,
+        "smoke": 106416.24,
+        "alcohol": 415.95,
+        "methane": 0.7,
+        "co": 167.8,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14844.88,
+        "smoke": 106261.61,
+        "alcohol": 416.14,
+        "methane": 0.7,
+        "co": 167.94,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14840.5,
+        "smoke": 106331.44,
+        "alcohol": 415.89,
+        "methane": 0.7,
+        "co": 167.98,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14859.64,
+        "smoke": 106453.5,
+        "alcohol": 415.95,
+        "methane": 0.7,
+        "co": 168.05,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14855.25,
+        "smoke": 106445.34,
+        "alcohol": 415.73,
+        "methane": 0.7,
+        "co": 167.93,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14843.15,
+        "smoke": 106315.95,
+        "alcohol": 415.82,
+        "methane": 0.7,
+        "co": 167.99,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14843.78,
+        "smoke": 106274.59,
+        "alcohol": 415.67,
+        "methane": 0.7,
+        "co": 168.04,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14848.72,
+        "smoke": 106309.74,
+        "alcohol": 415.89,
+        "methane": 0.7,
+        "co": 167.86,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14842.04,
+        "smoke": 106299.58,
+        "alcohol": 415.82,
+        "methane": 0.7,
+        "co": 167.82,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14860.85,
+        "smoke": 106371.78,
+        "alcohol": 415.62,
+        "methane": 0.7,
+        "co": 167.91,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14854.3,
+        "smoke": 106333.69,
+        "alcohol": 416.06,
+        "methane": 0.7,
+        "co": 167.94,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14861.76,
+        "smoke": 106420.29,
+        "alcohol": 415.68,
+        "methane": 0.7,
+        "co": 168.0,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14843.03,
+        "smoke": 106286.62,
+        "alcohol": 415.46,
+        "methane": 0.7,
+        "co": 167.9,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14854.53,
+        "smoke": 106343.85,
+        "alcohol": 415.43,
+        "methane": 0.7,
+        "co": 167.83,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14854.46,
+        "smoke": 106421.59,
+        "alcohol": 415.43,
+        "methane": 0.7,
+        "co": 167.9,
+        "flammable_gas": 64.65
+    },
+    {
+        "lpg": 14865.82,
+        "smoke": 106325.54,
+        "alcohol": 416.11,
+        "methane": 0.7,
+        "co": 167.99,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14865.54,
+        "smoke": 106435.14,
+        "alcohol": 415.58,
+        "methane": 0.7,
+        "co": 167.94,
+        "flammable_gas": 64.65
+    },
+    {
+        "lpg": 14869.76,
+        "smoke": 106400.53,
+        "alcohol": 415.43,
+        "methane": 0.7,
+        "co": 167.87,
+        "flammable_gas": 64.65
+    },
+    {
+        "lpg": 14851.14,
+        "smoke": 106361.42,
+        "alcohol": 415.67,
+        "methane": 0.7,
+        "co": 167.84,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14850.57,
+        "smoke": 106425.92,
+        "alcohol": 415.43,
+        "methane": 0.7,
+        "co": 168.07,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14856.55,
+        "smoke": 106380.99,
+        "alcohol": 416.02,
+        "methane": 0.7,
+        "co": 167.83,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14843.32,
+        "smoke": 106314.82,
+        "alcohol": 415.92,
+        "methane": 0.7,
+        "co": 167.88,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14865.82,
+        "smoke": 106426.83,
+        "alcohol": 415.62,
+        "methane": 0.7,
+        "co": 168.08,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14863.51,
+        "smoke": 106372.32,
+        "alcohol": 415.74,
+        "methane": 0.7,
+        "co": 167.93,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14848.24,
+        "smoke": 106256.55,
+        "alcohol": 415.47,
+        "methane": 0.7,
+        "co": 167.91,
+        "flammable_gas": 64.69
+    },
+    {
+        "lpg": 14854.37,
+        "smoke": 106317.29,
+        "alcohol": 415.68,
+        "methane": 0.7,
+        "co": 167.87,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14856.17,
+        "smoke": 106450.87,
+        "alcohol": 415.72,
+        "methane": 0.7,
+        "co": 168.06,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14855.0,
+        "smoke": 106404.71,
+        "alcohol": 416.06,
+        "methane": 0.7,
+        "co": 167.82,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14846.88,
+        "smoke": 106355.48,
+        "alcohol": 415.93,
+        "methane": 0.7,
+        "co": 168.01,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14865.96,
+        "smoke": 106422.95,
+        "alcohol": 415.86,
+        "methane": 0.7,
+        "co": 167.89,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14868.31,
+        "smoke": 106322.35,
+        "alcohol": 415.89,
+        "methane": 0.7,
+        "co": 168.1,
+        "flammable_gas": 64.57
+    },
+    {
+        "lpg": 14852.53,
+        "smoke": 106418.37,
+        "alcohol": 415.38,
+        "methane": 0.7,
+        "co": 168.02,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14856.24,
+        "smoke": 106398.64,
+        "alcohol": 415.45,
+        "methane": 0.7,
+        "co": 168.03,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14869.35,
+        "smoke": 106451.21,
+        "alcohol": 415.77,
+        "methane": 0.7,
+        "co": 167.94,
+        "flammable_gas": 64.69
+    },
+    {
+        "lpg": 14853.3,
+        "smoke": 106384.28,
+        "alcohol": 415.56,
+        "methane": 0.7,
+        "co": 167.96,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14859.87,
+        "smoke": 106362.4,
+        "alcohol": 415.58,
+        "methane": 0.7,
+        "co": 168.04,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14842.45,
+        "smoke": 106369.02,
+        "alcohol": 415.46,
+        "methane": 0.7,
+        "co": 167.86,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14866.61,
+        "smoke": 106451.86,
+        "alcohol": 415.39,
+        "methane": 0.7,
+        "co": 167.81,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14864.04,
+        "smoke": 106287.93,
+        "alcohol": 415.48,
+        "methane": 0.7,
+        "co": 167.93,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14856.44,
+        "smoke": 106418.58,
+        "alcohol": 415.84,
+        "methane": 0.7,
+        "co": 167.94,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14866.53,
+        "smoke": 106431.37,
+        "alcohol": 416.18,
+        "methane": 0.7,
+        "co": 167.94,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14865.73,
+        "smoke": 106344.14,
+        "alcohol": 415.5,
+        "methane": 0.7,
+        "co": 167.96,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14866.02,
+        "smoke": 106306.09,
+        "alcohol": 415.79,
+        "methane": 0.7,
+        "co": 168.11,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14869.69,
+        "smoke": 106383.17,
+        "alcohol": 416.14,
+        "methane": 0.7,
+        "co": 167.85,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14844.16,
+        "smoke": 106360.97,
+        "alcohol": 415.94,
+        "methane": 0.7,
+        "co": 167.86,
+        "flammable_gas": 64.57
+    },
+    {
+        "lpg": 14864.52,
+        "smoke": 106365.63,
+        "alcohol": 415.39,
+        "methane": 0.7,
+        "co": 167.89,
+        "flammable_gas": 64.57
+    },
+    {
+        "lpg": 14844.81,
+        "smoke": 106300.14,
+        "alcohol": 415.55,
+        "methane": 0.7,
+        "co": 167.85,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14861.2,
+        "smoke": 106302.03,
+        "alcohol": 415.73,
+        "methane": 0.7,
+        "co": 168.1,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14842.3,
+        "smoke": 106409.86,
+        "alcohol": 415.88,
+        "methane": 0.7,
+        "co": 167.92,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14855.75,
+        "smoke": 106380.37,
+        "alcohol": 415.99,
+        "methane": 0.7,
+        "co": 168.03,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14869.88,
+        "smoke": 106331.86,
+        "alcohol": 416.08,
+        "methane": 0.7,
+        "co": 168.03,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14868.35,
+        "smoke": 106264.54,
+        "alcohol": 415.7,
+        "methane": 0.7,
+        "co": 167.84,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14864.52,
+        "smoke": 106309.69,
+        "alcohol": 415.67,
+        "methane": 0.7,
+        "co": 168.0,
+        "flammable_gas": 64.69
+    },
+    {
+        "lpg": 14841.03,
+        "smoke": 106310.21,
+        "alcohol": 415.66,
+        "methane": 0.7,
+        "co": 167.99,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14846.1,
+        "smoke": 106308.32,
+        "alcohol": 415.54,
+        "methane": 0.7,
+        "co": 167.85,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14849.39,
+        "smoke": 106454.17,
+        "alcohol": 415.9,
+        "methane": 0.7,
+        "co": 167.9,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14860.88,
+        "smoke": 106384.66,
+        "alcohol": 415.75,
+        "methane": 0.7,
+        "co": 168.05,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14848.57,
+        "smoke": 106282.0,
+        "alcohol": 416.03,
+        "methane": 0.7,
+        "co": 168.03,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14848.29,
+        "smoke": 106397.76,
+        "alcohol": 415.9,
+        "methane": 0.7,
+        "co": 168.08,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14852.83,
+        "smoke": 106445.92,
+        "alcohol": 415.55,
+        "methane": 0.7,
+        "co": 167.87,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14852.73,
+        "smoke": 106297.91,
+        "alcohol": 415.65,
+        "methane": 0.7,
+        "co": 167.9,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14855.53,
+        "smoke": 106300.67,
+        "alcohol": 415.49,
+        "methane": 0.7,
+        "co": 167.84,
+        "flammable_gas": 64.65
+    },
+    {
+        "lpg": 14851.84,
+        "smoke": 106318.59,
+        "alcohol": 415.76,
+        "methane": 0.7,
+        "co": 168.09,
+        "flammable_gas": 64.57
+    },
+    {
+        "lpg": 14855.98,
+        "smoke": 106279.11,
+        "alcohol": 416.15,
+        "methane": 0.7,
+        "co": 167.88,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14842.35,
+        "smoke": 106443.01,
+        "alcohol": 415.9,
+        "methane": 0.7,
+        "co": 168.03,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14851.93,
+        "smoke": 106420.75,
+        "alcohol": 415.45,
+        "methane": 0.7,
+        "co": 167.93,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14841.8,
+        "smoke": 106376.03,
+        "alcohol": 415.96,
+        "methane": 0.7,
+        "co": 168.01,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14853.97,
+        "smoke": 106381.85,
+        "alcohol": 415.66,
+        "methane": 0.7,
+        "co": 167.81,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14868.21,
+        "smoke": 106267.85,
+        "alcohol": 415.99,
+        "methane": 0.7,
+        "co": 168.04,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14845.99,
+        "smoke": 106365.13,
+        "alcohol": 415.81,
+        "methane": 0.7,
+        "co": 168.0,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14869.0,
+        "smoke": 106343.39,
+        "alcohol": 416.07,
+        "methane": 0.7,
+        "co": 168.11,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14858.75,
+        "smoke": 106412.29,
+        "alcohol": 416.0,
+        "methane": 0.7,
+        "co": 168.12,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14843.58,
+        "smoke": 106314.13,
+        "alcohol": 416.2,
+        "methane": 0.7,
+        "co": 168.08,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14865.32,
+        "smoke": 106380.61,
+        "alcohol": 415.38,
+        "methane": 0.7,
+        "co": 167.87,
+        "flammable_gas": 64.69
+    },
+    {
+        "lpg": 14862.86,
+        "smoke": 106364.77,
+        "alcohol": 415.67,
+        "methane": 0.7,
+        "co": 168.07,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14866.01,
+        "smoke": 106417.93,
+        "alcohol": 415.67,
+        "methane": 0.7,
+        "co": 168.04,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14865.01,
+        "smoke": 106296.35,
+        "alcohol": 415.89,
+        "methane": 0.7,
+        "co": 167.82,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14848.65,
+        "smoke": 106336.17,
+        "alcohol": 415.79,
+        "methane": 0.7,
+        "co": 168.02,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14845.21,
+        "smoke": 106309.42,
+        "alcohol": 415.45,
+        "methane": 0.7,
+        "co": 167.89,
+        "flammable_gas": 64.65
+    },
+    {
+        "lpg": 14860.05,
+        "smoke": 106354.77,
+        "alcohol": 415.71,
+        "methane": 0.7,
+        "co": 168.06,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14850.02,
+        "smoke": 106371.01,
+        "alcohol": 415.84,
+        "methane": 0.7,
+        "co": 167.99,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14847.93,
+        "smoke": 106395.43,
+        "alcohol": 416.08,
+        "methane": 0.7,
+        "co": 167.98,
+        "flammable_gas": 64.65
+    },
+    {
+        "lpg": 14840.35,
+        "smoke": 106258.72,
+        "alcohol": 415.73,
+        "methane": 0.7,
+        "co": 168.02,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14854.75,
+        "smoke": 106455.45,
+        "alcohol": 415.87,
+        "methane": 0.7,
+        "co": 168.09,
+        "flammable_gas": 64.65
+    },
+    {
+        "lpg": 14843.33,
+        "smoke": 106335.09,
+        "alcohol": 416.18,
+        "methane": 0.7,
+        "co": 168.13,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14867.39,
+        "smoke": 106390.38,
+        "alcohol": 416.13,
+        "methane": 0.7,
+        "co": 167.85,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14861.67,
+        "smoke": 106386.97,
+        "alcohol": 415.48,
+        "methane": 0.7,
+        "co": 168.08,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14847.52,
+        "smoke": 106302.9,
+        "alcohol": 415.81,
+        "methane": 0.7,
+        "co": 167.85,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14845.78,
+        "smoke": 106269.52,
+        "alcohol": 415.55,
+        "methane": 0.7,
+        "co": 167.96,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14848.48,
+        "smoke": 106449.28,
+        "alcohol": 415.91,
+        "methane": 0.7,
+        "co": 168.04,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14845.64,
+        "smoke": 106400.38,
+        "alcohol": 415.59,
+        "methane": 0.7,
+        "co": 167.87,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14862.43,
+        "smoke": 106431.04,
+        "alcohol": 416.06,
+        "methane": 0.7,
+        "co": 167.95,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14869.02,
+        "smoke": 106280.27,
+        "alcohol": 415.61,
+        "methane": 0.7,
+        "co": 168.01,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14856.99,
+        "smoke": 106316.6,
+        "alcohol": 416.18,
+        "methane": 0.7,
+        "co": 168.11,
+        "flammable_gas": 64.69
+    },
+    {
+        "lpg": 14863.06,
+        "smoke": 106373.26,
+        "alcohol": 415.69,
+        "methane": 0.7,
+        "co": 167.89,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14853.87,
+        "smoke": 106280.15,
+        "alcohol": 415.53,
+        "methane": 0.7,
+        "co": 168.03,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14869.74,
+        "smoke": 106295.43,
+        "alcohol": 416.02,
+        "methane": 0.7,
+        "co": 168.09,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14855.34,
+        "smoke": 106454.53,
+        "alcohol": 415.86,
+        "methane": 0.7,
+        "co": 168.01,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14857.38,
+        "smoke": 106293.19,
+        "alcohol": 415.95,
+        "methane": 0.7,
+        "co": 167.9,
+        "flammable_gas": 64.57
+    },
+    {
+        "lpg": 14843.78,
+        "smoke": 106260.21,
+        "alcohol": 415.74,
+        "methane": 0.7,
+        "co": 168.09,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14854.2,
+        "smoke": 106281.74,
+        "alcohol": 416.06,
+        "methane": 0.7,
+        "co": 168.0,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14869.89,
+        "smoke": 106265.41,
+        "alcohol": 416.18,
+        "methane": 0.7,
+        "co": 167.9,
+        "flammable_gas": 64.57
+    },
+    {
+        "lpg": 14864.61,
+        "smoke": 106390.35,
+        "alcohol": 416.19,
+        "methane": 0.7,
+        "co": 168.14,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14859.34,
+        "smoke": 106337.38,
+        "alcohol": 415.84,
+        "methane": 0.7,
+        "co": 168.13,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14845.27,
+        "smoke": 106312.08,
+        "alcohol": 415.78,
+        "methane": 0.7,
+        "co": 168.04,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14867.49,
+        "smoke": 106293.07,
+        "alcohol": 415.61,
+        "methane": 0.7,
+        "co": 167.99,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14866.29,
+        "smoke": 106417.17,
+        "alcohol": 416.18,
+        "methane": 0.7,
+        "co": 167.9,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14846.13,
+        "smoke": 106400.34,
+        "alcohol": 416.04,
+        "methane": 0.7,
+        "co": 168.04,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14853.26,
+        "smoke": 106360.37,
+        "alcohol": 416.01,
+        "methane": 0.7,
+        "co": 168.12,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14859.07,
+        "smoke": 106280.26,
+        "alcohol": 416.12,
+        "methane": 0.7,
+        "co": 167.98,
+        "flammable_gas": 64.57
+    },
+    {
+        "lpg": 14850.09,
+        "smoke": 106369.12,
+        "alcohol": 415.72,
+        "methane": 0.7,
+        "co": 168.02,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14858.98,
+        "smoke": 106366.95,
+        "alcohol": 415.52,
+        "methane": 0.7,
+        "co": 168.12,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14847.49,
+        "smoke": 106330.79,
+        "alcohol": 415.45,
+        "methane": 0.7,
+        "co": 167.89,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14863.99,
+        "smoke": 106344.27,
+        "alcohol": 415.77,
+        "methane": 0.7,
+        "co": 167.92,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14855.28,
+        "smoke": 106451.65,
+        "alcohol": 415.65,
+        "methane": 0.7,
+        "co": 167.92,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14859.81,
+        "smoke": 106350.99,
+        "alcohol": 415.64,
+        "methane": 0.7,
+        "co": 168.12,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14842.37,
+        "smoke": 106406.32,
+        "alcohol": 416.11,
+        "methane": 0.7,
+        "co": 168.1,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14853.68,
+        "smoke": 106259.83,
+        "alcohol": 416.08,
+        "methane": 0.7,
+        "co": 168.14,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14868.46,
+        "smoke": 106260.54,
+        "alcohol": 415.82,
+        "methane": 0.7,
+        "co": 167.8,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14840.62,
+        "smoke": 106342.92,
+        "alcohol": 416.11,
+        "methane": 0.7,
+        "co": 168.04,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14842.6,
+        "smoke": 106427.64,
+        "alcohol": 415.7,
+        "methane": 0.7,
+        "co": 168.06,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14854.21,
+        "smoke": 106257.29,
+        "alcohol": 415.72,
+        "methane": 0.7,
+        "co": 167.96,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14868.97,
+        "smoke": 106303.2,
+        "alcohol": 415.95,
+        "methane": 0.7,
+        "co": 168.07,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14847.4,
+        "smoke": 106371.97,
+        "alcohol": 415.87,
+        "methane": 0.7,
+        "co": 168.02,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14843.65,
+        "smoke": 106403.95,
+        "alcohol": 416.15,
+        "methane": 0.7,
+        "co": 168.02,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14842.63,
+        "smoke": 106305.1,
+        "alcohol": 416.08,
+        "methane": 0.7,
+        "co": 167.93,
+        "flammable_gas": 64.69
+    },
+    {
+        "lpg": 14862.63,
+        "smoke": 106263.27,
+        "alcohol": 416.02,
+        "methane": 0.7,
+        "co": 167.95,
+        "flammable_gas": 64.65
+    },
+    {
+        "lpg": 14854.83,
+        "smoke": 106256.88,
+        "alcohol": 415.71,
+        "methane": 0.7,
+        "co": 167.86,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14852.31,
+        "smoke": 106418.09,
+        "alcohol": 416.06,
+        "methane": 0.7,
+        "co": 167.9,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14852.92,
+        "smoke": 106266.0,
+        "alcohol": 416.09,
+        "methane": 0.7,
+        "co": 167.95,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14864.16,
+        "smoke": 106266.7,
+        "alcohol": 416.1,
+        "methane": 0.7,
+        "co": 168.12,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14866.87,
+        "smoke": 106304.79,
+        "alcohol": 415.38,
+        "methane": 0.7,
+        "co": 167.88,
+        "flammable_gas": 64.69
+    },
+    {
+        "lpg": 14847.44,
+        "smoke": 106458.73,
+        "alcohol": 415.63,
+        "methane": 0.7,
+        "co": 167.97,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14849.07,
+        "smoke": 106271.64,
+        "alcohol": 416.15,
+        "methane": 0.7,
+        "co": 167.96,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14849.55,
+        "smoke": 106335.43,
+        "alcohol": 415.42,
+        "methane": 0.7,
+        "co": 168.07,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14865.14,
+        "smoke": 106259.7,
+        "alcohol": 415.81,
+        "methane": 0.7,
+        "co": 167.88,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14847.41,
+        "smoke": 106253.28,
+        "alcohol": 415.49,
+        "methane": 0.7,
+        "co": 167.85,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14863.53,
+        "smoke": 106397.69,
+        "alcohol": 415.48,
+        "methane": 0.7,
+        "co": 168.12,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14846.84,
+        "smoke": 106437.24,
+        "alcohol": 415.63,
+        "methane": 0.7,
+        "co": 167.82,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14849.01,
+        "smoke": 106332.59,
+        "alcohol": 415.93,
+        "methane": 0.7,
+        "co": 168.0,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14843.46,
+        "smoke": 106273.55,
+        "alcohol": 416.1,
+        "methane": 0.7,
+        "co": 167.81,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14846.48,
+        "smoke": 106449.67,
+        "alcohol": 415.71,
+        "methane": 0.7,
+        "co": 168.12,
+        "flammable_gas": 64.57
+    },
+    {
+        "lpg": 14846.17,
+        "smoke": 106435.95,
+        "alcohol": 416.13,
+        "methane": 0.7,
+        "co": 168.09,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14861.98,
+        "smoke": 106318.35,
+        "alcohol": 415.91,
+        "methane": 0.7,
+        "co": 168.1,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14851.7,
+        "smoke": 106352.77,
+        "alcohol": 415.52,
+        "methane": 0.7,
+        "co": 167.86,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14866.09,
+        "smoke": 106259.8,
+        "alcohol": 415.78,
+        "methane": 0.7,
+        "co": 168.12,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14852.97,
+        "smoke": 106358.05,
+        "alcohol": 415.89,
+        "methane": 0.7,
+        "co": 167.94,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14859.48,
+        "smoke": 106285.47,
+        "alcohol": 415.45,
+        "methane": 0.7,
+        "co": 167.85,
+        "flammable_gas": 64.57
+    },
+    {
+        "lpg": 14864.85,
+        "smoke": 106421.85,
+        "alcohol": 416.19,
+        "methane": 0.7,
+        "co": 167.99,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14863.32,
+        "smoke": 106277.01,
+        "alcohol": 415.87,
+        "methane": 0.7,
+        "co": 167.94,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14850.88,
+        "smoke": 106331.05,
+        "alcohol": 415.53,
+        "methane": 0.7,
+        "co": 168.06,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14844.44,
+        "smoke": 106385.41,
+        "alcohol": 415.83,
+        "methane": 0.7,
+        "co": 167.87,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14840.64,
+        "smoke": 106282.58,
+        "alcohol": 415.65,
+        "methane": 0.7,
+        "co": 168.01,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14848.72,
+        "smoke": 106354.72,
+        "alcohol": 415.83,
+        "methane": 0.7,
+        "co": 168.05,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14862.99,
+        "smoke": 106326.06,
+        "alcohol": 415.79,
+        "methane": 0.7,
+        "co": 168.0,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14847.31,
+        "smoke": 106363.01,
+        "alcohol": 416.16,
+        "methane": 0.7,
+        "co": 168.12,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14844.33,
+        "smoke": 106381.05,
+        "alcohol": 415.79,
+        "methane": 0.7,
+        "co": 167.97,
+        "flammable_gas": 64.69
+    },
+    {
+        "lpg": 14850.42,
+        "smoke": 106422.56,
+        "alcohol": 415.79,
+        "methane": 0.7,
+        "co": 167.86,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14843.87,
+        "smoke": 106359.76,
+        "alcohol": 415.71,
+        "methane": 0.7,
+        "co": 167.85,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14868.86,
+        "smoke": 106402.97,
+        "alcohol": 415.44,
+        "methane": 0.7,
+        "co": 168.11,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14864.34,
+        "smoke": 106397.39,
+        "alcohol": 415.78,
+        "methane": 0.7,
+        "co": 167.81,
+        "flammable_gas": 64.57
+    },
+    {
+        "lpg": 14868.61,
+        "smoke": 106419.5,
+        "alcohol": 415.5,
+        "methane": 0.7,
+        "co": 167.87,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14859.48,
+        "smoke": 106370.69,
+        "alcohol": 415.83,
+        "methane": 0.7,
+        "co": 167.89,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14864.92,
+        "smoke": 106323.67,
+        "alcohol": 415.62,
+        "methane": 0.7,
+        "co": 167.88,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14850.57,
+        "smoke": 106286.27,
+        "alcohol": 415.49,
+        "methane": 0.7,
+        "co": 167.9,
+        "flammable_gas": 64.65
+    },
+    {
+        "lpg": 14860.36,
+        "smoke": 106296.65,
+        "alcohol": 415.99,
+        "methane": 0.7,
+        "co": 167.98,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14858.49,
+        "smoke": 106462.84,
+        "alcohol": 415.48,
+        "methane": 0.7,
+        "co": 167.97,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14849.32,
+        "smoke": 106439.76,
+        "alcohol": 415.56,
+        "methane": 0.7,
+        "co": 168.11,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14863.75,
+        "smoke": 106335.64,
+        "alcohol": 415.76,
+        "methane": 0.7,
+        "co": 167.92,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14858.61,
+        "smoke": 106387.09,
+        "alcohol": 415.57,
+        "methane": 0.7,
+        "co": 168.09,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14840.98,
+        "smoke": 106270.31,
+        "alcohol": 415.77,
+        "methane": 0.7,
+        "co": 167.97,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14853.82,
+        "smoke": 106442.61,
+        "alcohol": 415.61,
+        "methane": 0.7,
+        "co": 168.01,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14866.46,
+        "smoke": 106415.22,
+        "alcohol": 415.41,
+        "methane": 0.7,
+        "co": 168.0,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14840.48,
+        "smoke": 106370.25,
+        "alcohol": 415.77,
+        "methane": 0.7,
+        "co": 167.93,
+        "flammable_gas": 64.69
+    },
+    {
+        "lpg": 14861.64,
+        "smoke": 106286.38,
+        "alcohol": 416.07,
+        "methane": 0.7,
+        "co": 168.13,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14845.32,
+        "smoke": 106314.78,
+        "alcohol": 415.68,
+        "methane": 0.7,
+        "co": 167.8,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14859.25,
+        "smoke": 106345.54,
+        "alcohol": 416.14,
+        "methane": 0.7,
+        "co": 168.13,
+        "flammable_gas": 64.69
+    },
+    {
+        "lpg": 14866.12,
+        "smoke": 106349.27,
+        "alcohol": 415.43,
+        "methane": 0.7,
+        "co": 168.09,
+        "flammable_gas": 64.57
+    },
+    {
+        "lpg": 14863.2,
+        "smoke": 106348.88,
+        "alcohol": 415.5,
+        "methane": 0.7,
+        "co": 167.88,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14845.83,
+        "smoke": 106465.64,
+        "alcohol": 415.49,
+        "methane": 0.7,
+        "co": 167.85,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14868.34,
+        "smoke": 106276.22,
+        "alcohol": 415.55,
+        "methane": 0.7,
+        "co": 167.96,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14856.51,
+        "smoke": 106260.68,
+        "alcohol": 415.47,
+        "methane": 0.7,
+        "co": 168.11,
+        "flammable_gas": 64.65
+    },
+    {
+        "lpg": 14858.3,
+        "smoke": 106328.66,
+        "alcohol": 415.66,
+        "methane": 0.7,
+        "co": 167.84,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14854.45,
+        "smoke": 106402.62,
+        "alcohol": 415.77,
+        "methane": 0.7,
+        "co": 168.13,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14867.07,
+        "smoke": 106407.55,
+        "alcohol": 415.64,
+        "methane": 0.7,
+        "co": 167.95,
+        "flammable_gas": 64.65
+    },
+    {
+        "lpg": 14855.84,
+        "smoke": 106431.14,
+        "alcohol": 416.0,
+        "methane": 0.7,
+        "co": 167.95,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14854.79,
+        "smoke": 106375.94,
+        "alcohol": 415.92,
+        "methane": 0.7,
+        "co": 167.92,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14861.26,
+        "smoke": 106337.32,
+        "alcohol": 415.53,
+        "methane": 0.7,
+        "co": 168.03,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14862.1,
+        "smoke": 106262.19,
+        "alcohol": 416.16,
+        "methane": 0.7,
+        "co": 167.83,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14864.9,
+        "smoke": 106338.91,
+        "alcohol": 415.75,
+        "methane": 0.7,
+        "co": 167.84,
+        "flammable_gas": 64.57
+    },
+    {
+        "lpg": 14866.09,
+        "smoke": 106260.17,
+        "alcohol": 416.08,
+        "methane": 0.7,
+        "co": 167.9,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14868.47,
+        "smoke": 106396.44,
+        "alcohol": 416.13,
+        "methane": 0.7,
+        "co": 168.11,
+        "flammable_gas": 64.69
+    },
+    {
+        "lpg": 14854.3,
+        "smoke": 106336.21,
+        "alcohol": 415.77,
+        "methane": 0.7,
+        "co": 167.84,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14860.9,
+        "smoke": 106395.37,
+        "alcohol": 416.15,
+        "methane": 0.7,
+        "co": 167.8,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14855.46,
+        "smoke": 106332.78,
+        "alcohol": 415.76,
+        "methane": 0.7,
+        "co": 167.9,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14846.8,
+        "smoke": 106453.45,
+        "alcohol": 416.06,
+        "methane": 0.7,
+        "co": 168.1,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14851.51,
+        "smoke": 106429.47,
+        "alcohol": 415.88,
+        "methane": 0.7,
+        "co": 168.06,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14865.53,
+        "smoke": 106427.19,
+        "alcohol": 416.01,
+        "methane": 0.7,
+        "co": 167.91,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14845.02,
+        "smoke": 106317.66,
+        "alcohol": 415.61,
+        "methane": 0.7,
+        "co": 167.86,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14853.06,
+        "smoke": 106320.37,
+        "alcohol": 415.61,
+        "methane": 0.7,
+        "co": 167.88,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14858.32,
+        "smoke": 106463.39,
+        "alcohol": 415.53,
+        "methane": 0.7,
+        "co": 167.83,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14858.83,
+        "smoke": 106343.4,
+        "alcohol": 415.89,
+        "methane": 0.7,
+        "co": 167.92,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14844.55,
+        "smoke": 106317.64,
+        "alcohol": 415.85,
+        "methane": 0.7,
+        "co": 168.11,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14846.97,
+        "smoke": 106338.25,
+        "alcohol": 415.94,
+        "methane": 0.7,
+        "co": 167.84,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14845.33,
+        "smoke": 106403.14,
+        "alcohol": 415.97,
+        "methane": 0.7,
+        "co": 167.99,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14859.21,
+        "smoke": 106436.74,
+        "alcohol": 416.02,
+        "methane": 0.7,
+        "co": 168.12,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14858.0,
+        "smoke": 106369.49,
+        "alcohol": 415.81,
+        "methane": 0.7,
+        "co": 168.06,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14854.04,
+        "smoke": 106266.3,
+        "alcohol": 415.39,
+        "methane": 0.7,
+        "co": 167.88,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14857.46,
+        "smoke": 106370.23,
+        "alcohol": 415.86,
+        "methane": 0.7,
+        "co": 168.02,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14849.3,
+        "smoke": 106368.96,
+        "alcohol": 415.43,
+        "methane": 0.7,
+        "co": 167.82,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14863.18,
+        "smoke": 106356.74,
+        "alcohol": 415.64,
+        "methane": 0.7,
+        "co": 167.86,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14864.2,
+        "smoke": 106356.97,
+        "alcohol": 416.08,
+        "methane": 0.7,
+        "co": 168.09,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14864.15,
+        "smoke": 106443.87,
+        "alcohol": 415.64,
+        "methane": 0.7,
+        "co": 167.82,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14854.83,
+        "smoke": 106285.2,
+        "alcohol": 416.03,
+        "methane": 0.7,
+        "co": 168.05,
+        "flammable_gas": 64.65
+    },
+    {
+        "lpg": 14845.95,
+        "smoke": 106263.1,
+        "alcohol": 415.58,
+        "methane": 0.7,
+        "co": 167.97,
+        "flammable_gas": 64.69
+    },
+    {
+        "lpg": 14856.57,
+        "smoke": 106304.71,
+        "alcohol": 416.1,
+        "methane": 0.7,
+        "co": 167.96,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14840.92,
+        "smoke": 106441.99,
+        "alcohol": 416.01,
+        "methane": 0.7,
+        "co": 167.91,
+        "flammable_gas": 64.69
+    },
+    {
+        "lpg": 14862.51,
+        "smoke": 106379.75,
+        "alcohol": 415.99,
+        "methane": 0.7,
+        "co": 167.84,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14842.5,
+        "smoke": 106453.3,
+        "alcohol": 415.39,
+        "methane": 0.7,
+        "co": 167.89,
+        "flammable_gas": 64.69
+    },
+    {
+        "lpg": 14858.29,
+        "smoke": 106319.96,
+        "alcohol": 415.69,
+        "methane": 0.7,
+        "co": 167.81,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14865.07,
+        "smoke": 106330.26,
+        "alcohol": 416.0,
+        "methane": 0.7,
+        "co": 167.87,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14849.66,
+        "smoke": 106299.52,
+        "alcohol": 416.11,
+        "methane": 0.7,
+        "co": 168.07,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14860.59,
+        "smoke": 106433.96,
+        "alcohol": 416.06,
+        "methane": 0.7,
+        "co": 167.91,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14840.74,
+        "smoke": 106290.3,
+        "alcohol": 416.11,
+        "methane": 0.7,
+        "co": 167.9,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14855.81,
+        "smoke": 106292.51,
+        "alcohol": 415.64,
+        "methane": 0.7,
+        "co": 167.92,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14862.33,
+        "smoke": 106408.74,
+        "alcohol": 415.93,
+        "methane": 0.7,
+        "co": 168.1,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14846.94,
+        "smoke": 106366.81,
+        "alcohol": 415.5,
+        "methane": 0.7,
+        "co": 167.99,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14845.02,
+        "smoke": 106271.63,
+        "alcohol": 416.06,
+        "methane": 0.7,
+        "co": 167.81,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14859.67,
+        "smoke": 106332.98,
+        "alcohol": 415.54,
+        "methane": 0.7,
+        "co": 168.0,
+        "flammable_gas": 64.57
+    },
+    {
+        "lpg": 14867.24,
+        "smoke": 106353.11,
+        "alcohol": 415.58,
+        "methane": 0.7,
+        "co": 167.87,
+        "flammable_gas": 64.69
+    },
+    {
+        "lpg": 14848.34,
+        "smoke": 106405.91,
+        "alcohol": 415.49,
+        "methane": 0.7,
+        "co": 167.94,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14851.46,
+        "smoke": 106435.16,
+        "alcohol": 415.81,
+        "methane": 0.7,
+        "co": 168.0,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14842.17,
+        "smoke": 106442.98,
+        "alcohol": 415.86,
+        "methane": 0.7,
+        "co": 168.02,
+        "flammable_gas": 64.57
+    },
+    {
+        "lpg": 14865.79,
+        "smoke": 106350.16,
+        "alcohol": 415.81,
+        "methane": 0.7,
+        "co": 167.86,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14844.96,
+        "smoke": 106369.99,
+        "alcohol": 416.19,
+        "methane": 0.7,
+        "co": 168.07,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14867.58,
+        "smoke": 106360.82,
+        "alcohol": 415.53,
+        "methane": 0.7,
+        "co": 167.85,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14853.69,
+        "smoke": 106284.91,
+        "alcohol": 415.71,
+        "methane": 0.7,
+        "co": 168.09,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14857.03,
+        "smoke": 106407.95,
+        "alcohol": 415.53,
+        "methane": 0.7,
+        "co": 167.86,
+        "flammable_gas": 64.57
+    },
+    {
+        "lpg": 14852.73,
+        "smoke": 106318.83,
+        "alcohol": 415.41,
+        "methane": 0.7,
+        "co": 167.93,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14857.54,
+        "smoke": 106356.52,
+        "alcohol": 415.63,
+        "methane": 0.7,
+        "co": 168.05,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14862.07,
+        "smoke": 106387.37,
+        "alcohol": 415.55,
+        "methane": 0.7,
+        "co": 168.04,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14860.31,
+        "smoke": 106295.21,
+        "alcohol": 415.9,
+        "methane": 0.7,
+        "co": 167.87,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14854.42,
+        "smoke": 106342.64,
+        "alcohol": 415.7,
+        "methane": 0.7,
+        "co": 167.94,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14847.76,
+        "smoke": 106349.89,
+        "alcohol": 416.17,
+        "methane": 0.7,
+        "co": 168.01,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14845.84,
+        "smoke": 106326.83,
+        "alcohol": 415.98,
+        "methane": 0.7,
+        "co": 167.98,
+        "flammable_gas": 64.57
+    },
+    {
+        "lpg": 14859.59,
+        "smoke": 106355.54,
+        "alcohol": 415.97,
+        "methane": 0.7,
+        "co": 167.94,
+        "flammable_gas": 64.65
+    },
+    {
+        "lpg": 14863.46,
+        "smoke": 106440.72,
+        "alcohol": 415.68,
+        "methane": 0.7,
+        "co": 167.87,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14867.63,
+        "smoke": 106429.54,
+        "alcohol": 415.7,
+        "methane": 0.7,
+        "co": 167.95,
+        "flammable_gas": 64.69
+    },
+    {
+        "lpg": 14864.36,
+        "smoke": 106367.52,
+        "alcohol": 415.43,
+        "methane": 0.7,
+        "co": 167.81,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14868.56,
+        "smoke": 106265.31,
+        "alcohol": 415.42,
+        "methane": 0.7,
+        "co": 168.14,
+        "flammable_gas": 64.57
+    },
+    {
+        "lpg": 14854.13,
+        "smoke": 106254.16,
+        "alcohol": 415.98,
+        "methane": 0.7,
+        "co": 168.04,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14860.19,
+        "smoke": 106350.86,
+        "alcohol": 415.39,
+        "methane": 0.7,
+        "co": 167.93,
+        "flammable_gas": 64.57
+    },
+    {
+        "lpg": 14850.8,
+        "smoke": 106369.26,
+        "alcohol": 415.44,
+        "methane": 0.7,
+        "co": 168.12,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14846.53,
+        "smoke": 106270.11,
+        "alcohol": 415.66,
+        "methane": 0.7,
+        "co": 167.81,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14854.14,
+        "smoke": 106282.04,
+        "alcohol": 415.98,
+        "methane": 0.7,
+        "co": 168.06,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14855.87,
+        "smoke": 106400.96,
+        "alcohol": 416.06,
+        "methane": 0.7,
+        "co": 168.05,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14840.37,
+        "smoke": 106451.74,
+        "alcohol": 415.89,
+        "methane": 0.7,
+        "co": 168.03,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14856.65,
+        "smoke": 106382.37,
+        "alcohol": 415.65,
+        "methane": 0.7,
+        "co": 168.05,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14842.27,
+        "smoke": 106308.05,
+        "alcohol": 416.02,
+        "methane": 0.7,
+        "co": 167.86,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14859.69,
+        "smoke": 106284.67,
+        "alcohol": 415.46,
+        "methane": 0.7,
+        "co": 167.85,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14864.45,
+        "smoke": 106263.63,
+        "alcohol": 416.04,
+        "methane": 0.7,
+        "co": 167.93,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14841.54,
+        "smoke": 106406.78,
+        "alcohol": 415.52,
+        "methane": 0.7,
+        "co": 167.93,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14863.0,
+        "smoke": 106451.49,
+        "alcohol": 415.78,
+        "methane": 0.7,
+        "co": 168.1,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14851.84,
+        "smoke": 106442.07,
+        "alcohol": 415.9,
+        "methane": 0.7,
+        "co": 168.03,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14861.7,
+        "smoke": 106378.07,
+        "alcohol": 415.93,
+        "methane": 0.7,
+        "co": 168.12,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14861.4,
+        "smoke": 106368.7,
+        "alcohol": 415.42,
+        "methane": 0.7,
+        "co": 167.89,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14841.49,
+        "smoke": 106397.11,
+        "alcohol": 416.05,
+        "methane": 0.7,
+        "co": 167.94,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14869.83,
+        "smoke": 106387.96,
+        "alcohol": 415.98,
+        "methane": 0.7,
+        "co": 167.89,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14859.79,
+        "smoke": 106293.39,
+        "alcohol": 415.98,
+        "methane": 0.7,
+        "co": 168.0,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14853.18,
+        "smoke": 106326.73,
+        "alcohol": 415.49,
+        "methane": 0.7,
+        "co": 167.87,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14868.34,
+        "smoke": 106400.94,
+        "alcohol": 415.74,
+        "methane": 0.7,
+        "co": 168.14,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14843.74,
+        "smoke": 106337.43,
+        "alcohol": 415.95,
+        "methane": 0.7,
+        "co": 167.8,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14850.56,
+        "smoke": 106329.49,
+        "alcohol": 415.55,
+        "methane": 0.7,
+        "co": 167.92,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14853.35,
+        "smoke": 106446.65,
+        "alcohol": 415.85,
+        "methane": 0.7,
+        "co": 168.02,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14848.01,
+        "smoke": 106273.2,
+        "alcohol": 415.88,
+        "methane": 0.7,
+        "co": 168.07,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14852.78,
+        "smoke": 106384.68,
+        "alcohol": 416.08,
+        "methane": 0.7,
+        "co": 167.91,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14869.68,
+        "smoke": 106289.72,
+        "alcohol": 415.56,
+        "methane": 0.7,
+        "co": 167.96,
+        "flammable_gas": 64.69
+    },
+    {
+        "lpg": 14860.16,
+        "smoke": 106435.72,
+        "alcohol": 416.07,
+        "methane": 0.7,
+        "co": 167.95,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14859.5,
+        "smoke": 106351.8,
+        "alcohol": 415.8,
+        "methane": 0.7,
+        "co": 168.08,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14853.57,
+        "smoke": 106420.22,
+        "alcohol": 415.41,
+        "methane": 0.7,
+        "co": 168.06,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14853.55,
+        "smoke": 106448.75,
+        "alcohol": 415.56,
+        "methane": 0.7,
+        "co": 168.14,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14846.29,
+        "smoke": 106316.47,
+        "alcohol": 415.85,
+        "methane": 0.7,
+        "co": 167.95,
+        "flammable_gas": 64.65
+    },
+    {
+        "lpg": 14855.39,
+        "smoke": 106268.28,
+        "alcohol": 416.08,
+        "methane": 0.7,
+        "co": 167.91,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14853.51,
+        "smoke": 106455.53,
+        "alcohol": 415.69,
+        "methane": 0.7,
+        "co": 167.87,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14849.07,
+        "smoke": 106315.64,
+        "alcohol": 415.43,
+        "methane": 0.7,
+        "co": 167.83,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14841.17,
+        "smoke": 106346.87,
+        "alcohol": 415.68,
+        "methane": 0.7,
+        "co": 167.81,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14850.66,
+        "smoke": 106374.05,
+        "alcohol": 415.63,
+        "methane": 0.7,
+        "co": 168.07,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14844.37,
+        "smoke": 106381.97,
+        "alcohol": 416.02,
+        "methane": 0.7,
+        "co": 167.99,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14867.48,
+        "smoke": 106433.95,
+        "alcohol": 415.74,
+        "methane": 0.7,
+        "co": 167.89,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14855.0,
+        "smoke": 106324.26,
+        "alcohol": 416.17,
+        "methane": 0.7,
+        "co": 168.08,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14840.8,
+        "smoke": 106396.54,
+        "alcohol": 415.98,
+        "methane": 0.7,
+        "co": 168.03,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14866.93,
+        "smoke": 106382.79,
+        "alcohol": 416.11,
+        "methane": 0.7,
+        "co": 167.82,
+        "flammable_gas": 64.65
+    },
+    {
+        "lpg": 14859.61,
+        "smoke": 106272.86,
+        "alcohol": 415.53,
+        "methane": 0.7,
+        "co": 168.12,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14847.84,
+        "smoke": 106461.52,
+        "alcohol": 415.81,
+        "methane": 0.7,
+        "co": 167.9,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14868.49,
+        "smoke": 106438.83,
+        "alcohol": 415.56,
+        "methane": 0.7,
+        "co": 167.92,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14861.4,
+        "smoke": 106310.09,
+        "alcohol": 416.03,
+        "methane": 0.7,
+        "co": 168.02,
+        "flammable_gas": 64.57
+    },
+    {
+        "lpg": 14863.28,
+        "smoke": 106404.27,
+        "alcohol": 415.96,
+        "methane": 0.7,
+        "co": 168.02,
+        "flammable_gas": 64.65
+    },
+    {
+        "lpg": 14856.52,
+        "smoke": 106431.25,
+        "alcohol": 415.61,
+        "methane": 0.7,
+        "co": 168.12,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14865.99,
+        "smoke": 106432.49,
+        "alcohol": 415.71,
+        "methane": 0.7,
+        "co": 167.94,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14845.35,
+        "smoke": 106337.92,
+        "alcohol": 416.05,
+        "methane": 0.7,
+        "co": 168.11,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14846.1,
+        "smoke": 106308.74,
+        "alcohol": 415.86,
+        "methane": 0.7,
+        "co": 167.97,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14867.72,
+        "smoke": 106373.04,
+        "alcohol": 415.95,
+        "methane": 0.7,
+        "co": 167.9,
+        "flammable_gas": 64.65
+    },
+    {
+        "lpg": 14856.91,
+        "smoke": 106420.26,
+        "alcohol": 415.58,
+        "methane": 0.7,
+        "co": 167.98,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14863.16,
+        "smoke": 106371.07,
+        "alcohol": 415.9,
+        "methane": 0.7,
+        "co": 168.0,
+        "flammable_gas": 64.57
+    },
+    {
+        "lpg": 14851.8,
+        "smoke": 106447.15,
+        "alcohol": 415.49,
+        "methane": 0.7,
+        "co": 167.98,
+        "flammable_gas": 64.69
+    },
+    {
+        "lpg": 14841.31,
+        "smoke": 106330.51,
+        "alcohol": 415.95,
+        "methane": 0.7,
+        "co": 168.06,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14847.01,
+        "smoke": 106441.52,
+        "alcohol": 415.39,
+        "methane": 0.7,
+        "co": 168.01,
+        "flammable_gas": 64.65
+    },
+    {
+        "lpg": 14843.07,
+        "smoke": 106433.73,
+        "alcohol": 415.52,
+        "methane": 0.7,
+        "co": 167.97,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14847.04,
+        "smoke": 106429.84,
+        "alcohol": 415.9,
+        "methane": 0.7,
+        "co": 167.84,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14867.07,
+        "smoke": 106409.76,
+        "alcohol": 415.63,
+        "methane": 0.7,
+        "co": 168.06,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14869.27,
+        "smoke": 106337.88,
+        "alcohol": 415.44,
+        "methane": 0.7,
+        "co": 167.9,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14847.58,
+        "smoke": 106458.77,
+        "alcohol": 416.13,
+        "methane": 0.7,
+        "co": 167.97,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14857.89,
+        "smoke": 106272.79,
+        "alcohol": 415.55,
+        "methane": 0.7,
+        "co": 167.85,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14852.97,
+        "smoke": 106272.44,
+        "alcohol": 416.04,
+        "methane": 0.7,
+        "co": 167.98,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14855.3,
+        "smoke": 106448.53,
+        "alcohol": 415.57,
+        "methane": 0.7,
+        "co": 167.95,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14857.43,
+        "smoke": 106459.77,
+        "alcohol": 415.62,
+        "methane": 0.7,
+        "co": 168.1,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14842.28,
+        "smoke": 106440.8,
+        "alcohol": 415.49,
+        "methane": 0.7,
+        "co": 167.97,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14867.1,
+        "smoke": 106276.06,
+        "alcohol": 415.56,
+        "methane": 0.7,
+        "co": 168.12,
+        "flammable_gas": 64.57
+    },
+    {
+        "lpg": 14861.01,
+        "smoke": 106358.0,
+        "alcohol": 415.69,
+        "methane": 0.7,
+        "co": 167.96,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14840.43,
+        "smoke": 106356.01,
+        "alcohol": 415.97,
+        "methane": 0.7,
+        "co": 168.05,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14860.43,
+        "smoke": 106369.1,
+        "alcohol": 415.75,
+        "methane": 0.7,
+        "co": 167.9,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14842.47,
+        "smoke": 106386.49,
+        "alcohol": 415.88,
+        "methane": 0.7,
+        "co": 167.83,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14869.75,
+        "smoke": 106377.11,
+        "alcohol": 416.2,
+        "methane": 0.7,
+        "co": 168.13,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14848.74,
+        "smoke": 106446.33,
+        "alcohol": 415.92,
+        "methane": 0.7,
+        "co": 167.96,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14844.92,
+        "smoke": 106386.71,
+        "alcohol": 416.2,
+        "methane": 0.7,
+        "co": 167.84,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14850.62,
+        "smoke": 106373.98,
+        "alcohol": 415.8,
+        "methane": 0.7,
+        "co": 168.01,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14853.06,
+        "smoke": 106259.67,
+        "alcohol": 415.87,
+        "methane": 0.7,
+        "co": 168.09,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14858.18,
+        "smoke": 106341.26,
+        "alcohol": 415.67,
+        "methane": 0.7,
+        "co": 168.02,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14847.14,
+        "smoke": 106324.56,
+        "alcohol": 415.58,
+        "methane": 0.7,
+        "co": 168.04,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14840.45,
+        "smoke": 106401.82,
+        "alcohol": 415.57,
+        "methane": 0.7,
+        "co": 167.92,
+        "flammable_gas": 64.65
+    },
+    {
+        "lpg": 14856.46,
+        "smoke": 106414.29,
+        "alcohol": 415.4,
+        "methane": 0.7,
+        "co": 167.82,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14845.03,
+        "smoke": 106265.45,
+        "alcohol": 416.16,
+        "methane": 0.7,
+        "co": 168.03,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14846.59,
+        "smoke": 106359.4,
+        "alcohol": 416.13,
+        "methane": 0.7,
+        "co": 168.11,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14864.34,
+        "smoke": 106293.68,
+        "alcohol": 415.8,
+        "methane": 0.7,
+        "co": 168.06,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14860.62,
+        "smoke": 106385.99,
+        "alcohol": 415.6,
+        "methane": 0.7,
+        "co": 167.98,
+        "flammable_gas": 64.69
+    },
+    {
+        "lpg": 14846.29,
+        "smoke": 106357.71,
+        "alcohol": 415.79,
+        "methane": 0.7,
+        "co": 167.83,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14866.82,
+        "smoke": 106380.86,
+        "alcohol": 415.85,
+        "methane": 0.7,
+        "co": 167.81,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14855.17,
+        "smoke": 106313.85,
+        "alcohol": 415.58,
+        "methane": 0.7,
+        "co": 167.92,
+        "flammable_gas": 64.57
+    },
+    {
+        "lpg": 14864.27,
+        "smoke": 106423.05,
+        "alcohol": 415.43,
+        "methane": 0.7,
+        "co": 167.99,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14850.6,
+        "smoke": 106310.0,
+        "alcohol": 416.02,
+        "methane": 0.7,
+        "co": 168.09,
+        "flammable_gas": 64.57
+    },
+    {
+        "lpg": 14855.49,
+        "smoke": 106331.66,
+        "alcohol": 415.65,
+        "methane": 0.7,
+        "co": 167.96,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14861.59,
+        "smoke": 106439.88,
+        "alcohol": 415.38,
+        "methane": 0.7,
+        "co": 168.03,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14859.29,
+        "smoke": 106420.08,
+        "alcohol": 415.91,
+        "methane": 0.7,
+        "co": 168.11,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14855.29,
+        "smoke": 106352.03,
+        "alcohol": 415.73,
+        "methane": 0.7,
+        "co": 168.08,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14855.92,
+        "smoke": 106354.29,
+        "alcohol": 416.1,
+        "methane": 0.7,
+        "co": 168.12,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14866.21,
+        "smoke": 106356.29,
+        "alcohol": 415.82,
+        "methane": 0.7,
+        "co": 167.84,
+        "flammable_gas": 64.69
+    },
+    {
+        "lpg": 14866.96,
+        "smoke": 106427.15,
+        "alcohol": 416.14,
+        "methane": 0.7,
+        "co": 168.03,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14860.88,
+        "smoke": 106411.71,
+        "alcohol": 416.01,
+        "methane": 0.7,
+        "co": 167.93,
+        "flammable_gas": 64.65
+    },
+    {
+        "lpg": 14841.35,
+        "smoke": 106332.12,
+        "alcohol": 415.94,
+        "methane": 0.7,
+        "co": 167.84,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14853.4,
+        "smoke": 106415.81,
+        "alcohol": 415.87,
+        "methane": 0.7,
+        "co": 167.93,
+        "flammable_gas": 64.69
+    },
+    {
+        "lpg": 14848.92,
+        "smoke": 106408.39,
+        "alcohol": 416.01,
+        "methane": 0.7,
+        "co": 167.85,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14859.42,
+        "smoke": 106397.75,
+        "alcohol": 415.97,
+        "methane": 0.7,
+        "co": 167.96,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14869.67,
+        "smoke": 106337.39,
+        "alcohol": 415.66,
+        "methane": 0.7,
+        "co": 167.92,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14860.45,
+        "smoke": 106434.32,
+        "alcohol": 416.14,
+        "methane": 0.7,
+        "co": 167.99,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14867.29,
+        "smoke": 106401.29,
+        "alcohol": 415.84,
+        "methane": 0.7,
+        "co": 167.81,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14846.93,
+        "smoke": 106370.9,
+        "alcohol": 415.77,
+        "methane": 0.7,
+        "co": 168.01,
+        "flammable_gas": 64.69
+    },
+    {
+        "lpg": 14868.01,
+        "smoke": 106463.91,
+        "alcohol": 415.94,
+        "methane": 0.7,
+        "co": 167.81,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14866.01,
+        "smoke": 106414.22,
+        "alcohol": 415.99,
+        "methane": 0.7,
+        "co": 167.81,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14859.09,
+        "smoke": 106457.25,
+        "alcohol": 415.48,
+        "methane": 0.7,
+        "co": 167.97,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14850.27,
+        "smoke": 106403.25,
+        "alcohol": 415.62,
+        "methane": 0.7,
+        "co": 168.08,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14869.17,
+        "smoke": 106459.85,
+        "alcohol": 415.43,
+        "methane": 0.7,
+        "co": 168.1,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14848.26,
+        "smoke": 106371.6,
+        "alcohol": 416.1,
+        "methane": 0.7,
+        "co": 168.12,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14854.09,
+        "smoke": 106265.45,
+        "alcohol": 415.88,
+        "methane": 0.7,
+        "co": 167.94,
+        "flammable_gas": 64.69
+    },
+    {
+        "lpg": 14843.48,
+        "smoke": 106291.99,
+        "alcohol": 416.05,
+        "methane": 0.7,
+        "co": 168.08,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14845.88,
+        "smoke": 106409.33,
+        "alcohol": 416.18,
+        "methane": 0.7,
+        "co": 167.91,
+        "flammable_gas": 64.65
+    },
+    {
+        "lpg": 14842.17,
+        "smoke": 106384.72,
+        "alcohol": 416.06,
+        "methane": 0.7,
+        "co": 167.88,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14850.01,
+        "smoke": 106435.7,
+        "alcohol": 415.66,
+        "methane": 0.7,
+        "co": 167.84,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14864.46,
+        "smoke": 106382.12,
+        "alcohol": 415.71,
+        "methane": 0.7,
+        "co": 168.1,
+        "flammable_gas": 64.57
+    },
+    {
+        "lpg": 14844.22,
+        "smoke": 106433.32,
+        "alcohol": 415.52,
+        "methane": 0.7,
+        "co": 168.03,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14868.32,
+        "smoke": 106447.19,
+        "alcohol": 415.76,
+        "methane": 0.7,
+        "co": 168.12,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14842.7,
+        "smoke": 106376.5,
+        "alcohol": 415.91,
+        "methane": 0.7,
+        "co": 167.98,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14852.86,
+        "smoke": 106370.87,
+        "alcohol": 415.86,
+        "methane": 0.7,
+        "co": 168.03,
+        "flammable_gas": 64.57
+    },
+    {
+        "lpg": 14842.66,
+        "smoke": 106428.0,
+        "alcohol": 416.01,
+        "methane": 0.7,
+        "co": 168.04,
+        "flammable_gas": 64.65
+    },
+    {
+        "lpg": 14867.36,
+        "smoke": 106382.36,
+        "alcohol": 415.56,
+        "methane": 0.7,
+        "co": 167.84,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14867.84,
+        "smoke": 106397.9,
+        "alcohol": 415.67,
+        "methane": 0.7,
+        "co": 168.04,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14856.84,
+        "smoke": 106344.71,
+        "alcohol": 415.77,
+        "methane": 0.7,
+        "co": 168.09,
+        "flammable_gas": 64.65
+    },
+    {
+        "lpg": 14864.22,
+        "smoke": 106276.98,
+        "alcohol": 416.13,
+        "methane": 0.7,
+        "co": 167.84,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14843.24,
+        "smoke": 106292.01,
+        "alcohol": 415.76,
+        "methane": 0.7,
+        "co": 167.93,
+        "flammable_gas": 64.69
+    },
+    {
+        "lpg": 14855.91,
+        "smoke": 106418.39,
+        "alcohol": 415.42,
+        "methane": 0.7,
+        "co": 167.89,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14860.16,
+        "smoke": 106284.15,
+        "alcohol": 415.59,
+        "methane": 0.7,
+        "co": 168.0,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14849.93,
+        "smoke": 106277.52,
+        "alcohol": 415.96,
+        "methane": 0.7,
+        "co": 167.95,
+        "flammable_gas": 64.57
+    },
+    {
+        "lpg": 14866.26,
+        "smoke": 106360.54,
+        "alcohol": 415.39,
+        "methane": 0.7,
+        "co": 167.89,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14857.26,
+        "smoke": 106341.32,
+        "alcohol": 415.44,
+        "methane": 0.7,
+        "co": 168.07,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14849.67,
+        "smoke": 106333.02,
+        "alcohol": 415.82,
+        "methane": 0.7,
+        "co": 167.94,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14866.28,
+        "smoke": 106379.29,
+        "alcohol": 415.75,
+        "methane": 0.7,
+        "co": 168.05,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14840.98,
+        "smoke": 106401.16,
+        "alcohol": 415.59,
+        "methane": 0.7,
+        "co": 168.05,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14857.82,
+        "smoke": 106317.14,
+        "alcohol": 416.08,
+        "methane": 0.7,
+        "co": 167.89,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14854.62,
+        "smoke": 106358.4,
+        "alcohol": 415.57,
+        "methane": 0.7,
+        "co": 167.88,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14869.2,
+        "smoke": 106448.89,
+        "alcohol": 416.15,
+        "methane": 0.7,
+        "co": 168.11,
+        "flammable_gas": 64.65
+    },
+    {
+        "lpg": 14864.51,
+        "smoke": 106260.97,
+        "alcohol": 415.81,
+        "methane": 0.7,
+        "co": 168.05,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14849.46,
+        "smoke": 106297.08,
+        "alcohol": 415.62,
+        "methane": 0.7,
+        "co": 168.02,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14859.82,
+        "smoke": 106366.9,
+        "alcohol": 415.78,
+        "methane": 0.7,
+        "co": 168.0,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14842.68,
+        "smoke": 106421.93,
+        "alcohol": 416.05,
+        "methane": 0.7,
+        "co": 167.85,
+        "flammable_gas": 64.65
+    },
+    {
+        "lpg": 14851.04,
+        "smoke": 106459.39,
+        "alcohol": 415.71,
+        "methane": 0.7,
+        "co": 168.02,
+        "flammable_gas": 64.69
+    },
+    {
+        "lpg": 14842.56,
+        "smoke": 106320.77,
+        "alcohol": 415.78,
+        "methane": 0.7,
+        "co": 167.85,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14860.63,
+        "smoke": 106465.38,
+        "alcohol": 415.74,
+        "methane": 0.7,
+        "co": 168.01,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14849.92,
+        "smoke": 106396.08,
+        "alcohol": 415.87,
+        "methane": 0.7,
+        "co": 167.99,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14863.67,
+        "smoke": 106254.36,
+        "alcohol": 415.95,
+        "methane": 0.7,
+        "co": 168.0,
+        "flammable_gas": 64.65
+    },
+    {
+        "lpg": 14867.24,
+        "smoke": 106384.11,
+        "alcohol": 415.99,
+        "methane": 0.7,
+        "co": 167.98,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14843.78,
+        "smoke": 106309.4,
+        "alcohol": 415.57,
+        "methane": 0.7,
+        "co": 167.88,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14861.21,
+        "smoke": 106253.43,
+        "alcohol": 415.4,
+        "methane": 0.7,
+        "co": 168.07,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14849.64,
+        "smoke": 106286.14,
+        "alcohol": 415.71,
+        "methane": 0.7,
+        "co": 167.81,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14869.93,
+        "smoke": 106336.94,
+        "alcohol": 416.02,
+        "methane": 0.7,
+        "co": 167.95,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14852.06,
+        "smoke": 106400.07,
+        "alcohol": 415.71,
+        "methane": 0.7,
+        "co": 167.97,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14864.09,
+        "smoke": 106303.15,
+        "alcohol": 415.56,
+        "methane": 0.7,
+        "co": 168.07,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14869.34,
+        "smoke": 106254.72,
+        "alcohol": 415.97,
+        "methane": 0.7,
+        "co": 168.13,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14850.19,
+        "smoke": 106359.96,
+        "alcohol": 415.52,
+        "methane": 0.7,
+        "co": 168.05,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14863.04,
+        "smoke": 106426.14,
+        "alcohol": 415.54,
+        "methane": 0.7,
+        "co": 168.13,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14855.24,
+        "smoke": 106348.29,
+        "alcohol": 415.66,
+        "methane": 0.7,
+        "co": 168.11,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14860.22,
+        "smoke": 106256.32,
+        "alcohol": 416.15,
+        "methane": 0.7,
+        "co": 167.91,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14857.23,
+        "smoke": 106298.25,
+        "alcohol": 416.09,
+        "methane": 0.7,
+        "co": 168.13,
+        "flammable_gas": 64.69
+    },
+    {
+        "lpg": 14844.3,
+        "smoke": 106399.59,
+        "alcohol": 415.95,
+        "methane": 0.7,
+        "co": 167.83,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14856.81,
+        "smoke": 106417.05,
+        "alcohol": 416.2,
+        "methane": 0.7,
+        "co": 167.82,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14846.11,
+        "smoke": 106267.51,
+        "alcohol": 415.6,
+        "methane": 0.7,
+        "co": 168.07,
+        "flammable_gas": 64.69
+    },
+    {
+        "lpg": 14859.38,
+        "smoke": 106464.39,
+        "alcohol": 415.52,
+        "methane": 0.7,
+        "co": 167.85,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14848.02,
+        "smoke": 106290.57,
+        "alcohol": 415.83,
+        "methane": 0.7,
+        "co": 167.81,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14865.13,
+        "smoke": 106447.37,
+        "alcohol": 415.51,
+        "methane": 0.7,
+        "co": 167.82,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14860.17,
+        "smoke": 106423.15,
+        "alcohol": 415.83,
+        "methane": 0.7,
+        "co": 167.93,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14865.11,
+        "smoke": 106268.43,
+        "alcohol": 415.52,
+        "methane": 0.7,
+        "co": 167.85,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14864.21,
+        "smoke": 106392.1,
+        "alcohol": 416.0,
+        "methane": 0.7,
+        "co": 167.91,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14853.99,
+        "smoke": 106440.4,
+        "alcohol": 415.95,
+        "methane": 0.7,
+        "co": 167.9,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14869.07,
+        "smoke": 106264.19,
+        "alcohol": 415.6,
+        "methane": 0.7,
+        "co": 168.0,
+        "flammable_gas": 64.65
+    },
+    {
+        "lpg": 14856.29,
+        "smoke": 106407.46,
+        "alcohol": 415.65,
+        "methane": 0.7,
+        "co": 167.92,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14855.52,
+        "smoke": 106450.33,
+        "alcohol": 415.74,
+        "methane": 0.7,
+        "co": 168.11,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14847.25,
+        "smoke": 106374.83,
+        "alcohol": 415.61,
+        "methane": 0.7,
+        "co": 168.09,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14867.73,
+        "smoke": 106431.26,
+        "alcohol": 415.85,
+        "methane": 0.7,
+        "co": 168.02,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14855.48,
+        "smoke": 106440.77,
+        "alcohol": 415.64,
+        "methane": 0.7,
+        "co": 167.95,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14856.92,
+        "smoke": 106432.86,
+        "alcohol": 415.65,
+        "methane": 0.7,
+        "co": 168.04,
+        "flammable_gas": 64.65
+    },
+    {
+        "lpg": 14863.61,
+        "smoke": 106454.49,
+        "alcohol": 415.45,
+        "methane": 0.7,
+        "co": 168.12,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14840.85,
+        "smoke": 106325.33,
+        "alcohol": 415.71,
+        "methane": 0.7,
+        "co": 167.99,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14853.15,
+        "smoke": 106447.32,
+        "alcohol": 415.74,
+        "methane": 0.7,
+        "co": 167.96,
+        "flammable_gas": 64.65
+    },
+    {
+        "lpg": 14849.65,
+        "smoke": 106371.64,
+        "alcohol": 415.84,
+        "methane": 0.7,
+        "co": 168.09,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14864.85,
+        "smoke": 106380.45,
+        "alcohol": 415.62,
+        "methane": 0.7,
+        "co": 168.06,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14845.08,
+        "smoke": 106291.22,
+        "alcohol": 415.8,
+        "methane": 0.7,
+        "co": 168.13,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14857.62,
+        "smoke": 106372.98,
+        "alcohol": 415.59,
+        "methane": 0.7,
+        "co": 167.94,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14864.72,
+        "smoke": 106278.75,
+        "alcohol": 415.99,
+        "methane": 0.7,
+        "co": 168.11,
+        "flammable_gas": 64.69
+    },
+    {
+        "lpg": 14852.17,
+        "smoke": 106432.76,
+        "alcohol": 416.1,
+        "methane": 0.7,
+        "co": 168.13,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14842.87,
+        "smoke": 106428.22,
+        "alcohol": 415.95,
+        "methane": 0.7,
+        "co": 167.94,
+        "flammable_gas": 64.65
+    },
+    {
+        "lpg": 14842.17,
+        "smoke": 106387.38,
+        "alcohol": 416.01,
+        "methane": 0.7,
+        "co": 167.95,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14865.18,
+        "smoke": 106317.43,
+        "alcohol": 415.89,
+        "methane": 0.7,
+        "co": 167.98,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14845.57,
+        "smoke": 106282.58,
+        "alcohol": 415.4,
+        "methane": 0.7,
+        "co": 167.96,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14852.24,
+        "smoke": 106370.45,
+        "alcohol": 415.58,
+        "methane": 0.7,
+        "co": 168.04,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14841.44,
+        "smoke": 106338.42,
+        "alcohol": 416.13,
+        "methane": 0.7,
+        "co": 167.81,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14848.49,
+        "smoke": 106301.0,
+        "alcohol": 415.72,
+        "methane": 0.7,
+        "co": 168.14,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14849.39,
+        "smoke": 106275.25,
+        "alcohol": 415.87,
+        "methane": 0.7,
+        "co": 167.98,
+        "flammable_gas": 64.69
+    },
+    {
+        "lpg": 14845.29,
+        "smoke": 106441.78,
+        "alcohol": 415.63,
+        "methane": 0.7,
+        "co": 167.92,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14854.43,
+        "smoke": 106363.56,
+        "alcohol": 415.44,
+        "methane": 0.7,
+        "co": 167.93,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14843.86,
+        "smoke": 106443.15,
+        "alcohol": 415.7,
+        "methane": 0.7,
+        "co": 167.83,
+        "flammable_gas": 64.69
+    },
+    {
+        "lpg": 14842.4,
+        "smoke": 106344.85,
+        "alcohol": 415.95,
+        "methane": 0.7,
+        "co": 167.91,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14862.24,
+        "smoke": 106272.22,
+        "alcohol": 415.62,
+        "methane": 0.7,
+        "co": 167.97,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14865.66,
+        "smoke": 106280.04,
+        "alcohol": 415.45,
+        "methane": 0.7,
+        "co": 168.1,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14863.86,
+        "smoke": 106254.07,
+        "alcohol": 415.62,
+        "methane": 0.7,
+        "co": 168.12,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14860.93,
+        "smoke": 106260.32,
+        "alcohol": 415.81,
+        "methane": 0.7,
+        "co": 168.08,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14857.68,
+        "smoke": 106437.35,
+        "alcohol": 415.82,
+        "methane": 0.7,
+        "co": 167.81,
+        "flammable_gas": 64.57
+    },
+    {
+        "lpg": 14854.21,
+        "smoke": 106374.36,
+        "alcohol": 415.97,
+        "methane": 0.7,
+        "co": 167.83,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14847.48,
+        "smoke": 106370.05,
+        "alcohol": 415.72,
+        "methane": 0.7,
+        "co": 168.11,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14841.86,
+        "smoke": 106268.98,
+        "alcohol": 415.79,
+        "methane": 0.7,
+        "co": 168.02,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14847.44,
+        "smoke": 106294.34,
+        "alcohol": 415.74,
+        "methane": 0.7,
+        "co": 167.94,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14860.89,
+        "smoke": 106383.96,
+        "alcohol": 415.52,
+        "methane": 0.7,
+        "co": 167.86,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14851.83,
+        "smoke": 106304.53,
+        "alcohol": 415.95,
+        "methane": 0.7,
+        "co": 167.99,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14858.69,
+        "smoke": 106325.79,
+        "alcohol": 415.54,
+        "methane": 0.7,
+        "co": 167.89,
+        "flammable_gas": 64.69
+    },
+    {
+        "lpg": 14854.94,
+        "smoke": 106366.98,
+        "alcohol": 415.71,
+        "methane": 0.7,
+        "co": 167.92,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14850.42,
+        "smoke": 106410.01,
+        "alcohol": 416.01,
+        "methane": 0.7,
+        "co": 167.91,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14851.83,
+        "smoke": 106293.48,
+        "alcohol": 415.47,
+        "methane": 0.7,
+        "co": 168.11,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14850.81,
+        "smoke": 106329.95,
+        "alcohol": 415.95,
+        "methane": 0.7,
+        "co": 167.85,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14852.7,
+        "smoke": 106408.78,
+        "alcohol": 415.93,
+        "methane": 0.7,
+        "co": 167.98,
+        "flammable_gas": 64.65
+    },
+    {
+        "lpg": 14847.74,
+        "smoke": 106458.79,
+        "alcohol": 415.93,
+        "methane": 0.7,
+        "co": 167.91,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14850.06,
+        "smoke": 106315.22,
+        "alcohol": 416.06,
+        "methane": 0.7,
+        "co": 168.04,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14841.92,
+        "smoke": 106381.45,
+        "alcohol": 415.45,
+        "methane": 0.7,
+        "co": 167.81,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14851.43,
+        "smoke": 106299.29,
+        "alcohol": 415.89,
+        "methane": 0.7,
+        "co": 167.93,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14840.43,
+        "smoke": 106334.34,
+        "alcohol": 415.45,
+        "methane": 0.7,
+        "co": 167.83,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14856.43,
+        "smoke": 106339.19,
+        "alcohol": 416.1,
+        "methane": 0.7,
+        "co": 167.9,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14847.77,
+        "smoke": 106334.42,
+        "alcohol": 415.4,
+        "methane": 0.7,
+        "co": 167.91,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14856.02,
+        "smoke": 106292.07,
+        "alcohol": 415.85,
+        "methane": 0.7,
+        "co": 167.99,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14862.15,
+        "smoke": 106408.16,
+        "alcohol": 416.12,
+        "methane": 0.7,
+        "co": 167.89,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14847.56,
+        "smoke": 106294.96,
+        "alcohol": 416.01,
+        "methane": 0.7,
+        "co": 168.0,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14865.49,
+        "smoke": 106271.0,
+        "alcohol": 416.17,
+        "methane": 0.7,
+        "co": 167.96,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14860.1,
+        "smoke": 106428.78,
+        "alcohol": 415.46,
+        "methane": 0.7,
+        "co": 167.83,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14858.64,
+        "smoke": 106278.13,
+        "alcohol": 416.06,
+        "methane": 0.7,
+        "co": 168.0,
+        "flammable_gas": 64.57
+    },
+    {
+        "lpg": 14859.41,
+        "smoke": 106258.96,
+        "alcohol": 415.77,
+        "methane": 0.7,
+        "co": 168.08,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14840.99,
+        "smoke": 106337.59,
+        "alcohol": 416.15,
+        "methane": 0.7,
+        "co": 167.83,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14844.53,
+        "smoke": 106434.32,
+        "alcohol": 416.04,
+        "methane": 0.7,
+        "co": 168.02,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14863.23,
+        "smoke": 106294.5,
+        "alcohol": 415.61,
+        "methane": 0.7,
+        "co": 167.96,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14860.05,
+        "smoke": 106459.56,
+        "alcohol": 415.86,
+        "methane": 0.7,
+        "co": 168.12,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14868.69,
+        "smoke": 106322.98,
+        "alcohol": 415.56,
+        "methane": 0.7,
+        "co": 168.0,
+        "flammable_gas": 64.69
+    },
+    {
+        "lpg": 14856.3,
+        "smoke": 106461.71,
+        "alcohol": 415.76,
+        "methane": 0.7,
+        "co": 168.0,
+        "flammable_gas": 64.65
+    },
+    {
+        "lpg": 14868.56,
+        "smoke": 106366.54,
+        "alcohol": 416.03,
+        "methane": 0.7,
+        "co": 167.83,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14862.85,
+        "smoke": 106396.56,
+        "alcohol": 415.53,
+        "methane": 0.7,
+        "co": 167.87,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14861.35,
+        "smoke": 106262.45,
+        "alcohol": 415.38,
+        "methane": 0.7,
+        "co": 167.91,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14848.85,
+        "smoke": 106345.14,
+        "alcohol": 415.7,
+        "methane": 0.7,
+        "co": 168.13,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14841.76,
+        "smoke": 106420.3,
+        "alcohol": 416.02,
+        "methane": 0.7,
+        "co": 168.12,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14850.07,
+        "smoke": 106275.62,
+        "alcohol": 415.46,
+        "methane": 0.7,
+        "co": 167.86,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14869.38,
+        "smoke": 106280.64,
+        "alcohol": 416.11,
+        "methane": 0.7,
+        "co": 168.05,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14863.67,
+        "smoke": 106442.32,
+        "alcohol": 415.68,
+        "methane": 0.7,
+        "co": 168.1,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14862.66,
+        "smoke": 106368.84,
+        "alcohol": 416.03,
+        "methane": 0.7,
+        "co": 167.93,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14850.19,
+        "smoke": 106458.59,
+        "alcohol": 415.6,
+        "methane": 0.7,
+        "co": 168.05,
+        "flammable_gas": 64.69
+    },
+    {
+        "lpg": 14864.71,
+        "smoke": 106307.43,
+        "alcohol": 415.99,
+        "methane": 0.7,
+        "co": 167.98,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14848.92,
+        "smoke": 106337.3,
+        "alcohol": 415.54,
+        "methane": 0.7,
+        "co": 168.13,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14865.21,
+        "smoke": 106426.29,
+        "alcohol": 415.67,
+        "methane": 0.7,
+        "co": 168.03,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14845.39,
+        "smoke": 106395.55,
+        "alcohol": 416.18,
+        "methane": 0.7,
+        "co": 167.84,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14849.26,
+        "smoke": 106255.35,
+        "alcohol": 415.44,
+        "methane": 0.7,
+        "co": 167.81,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14856.37,
+        "smoke": 106294.18,
+        "alcohol": 415.55,
+        "methane": 0.7,
+        "co": 168.03,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14845.91,
+        "smoke": 106392.88,
+        "alcohol": 415.48,
+        "methane": 0.7,
+        "co": 168.13,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14845.91,
+        "smoke": 106435.37,
+        "alcohol": 415.91,
+        "methane": 0.7,
+        "co": 167.81,
+        "flammable_gas": 64.69
+    },
+    {
+        "lpg": 14843.14,
+        "smoke": 106396.82,
+        "alcohol": 415.86,
+        "methane": 0.7,
+        "co": 167.85,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14840.31,
+        "smoke": 106315.41,
+        "alcohol": 416.14,
+        "methane": 0.7,
+        "co": 168.1,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14844.33,
+        "smoke": 106305.14,
+        "alcohol": 415.66,
+        "methane": 0.7,
+        "co": 168.13,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14840.31,
+        "smoke": 106462.24,
+        "alcohol": 415.38,
+        "methane": 0.7,
+        "co": 168.06,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14855.13,
+        "smoke": 106298.98,
+        "alcohol": 415.58,
+        "methane": 0.7,
+        "co": 168.12,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14867.97,
+        "smoke": 106383.81,
+        "alcohol": 415.78,
+        "methane": 0.7,
+        "co": 168.02,
+        "flammable_gas": 64.65
+    },
+    {
+        "lpg": 14846.23,
+        "smoke": 106368.65,
+        "alcohol": 415.47,
+        "methane": 0.7,
+        "co": 167.92,
+        "flammable_gas": 64.69
+    },
+    {
+        "lpg": 14859.03,
+        "smoke": 106259.66,
+        "alcohol": 415.38,
+        "methane": 0.7,
+        "co": 168.05,
+        "flammable_gas": 64.69
+    },
+    {
+        "lpg": 14855.2,
+        "smoke": 106367.5,
+        "alcohol": 415.86,
+        "methane": 0.7,
+        "co": 168.13,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14848.79,
+        "smoke": 106268.78,
+        "alcohol": 416.15,
+        "methane": 0.7,
+        "co": 168.08,
+        "flammable_gas": 64.65
+    },
+    {
+        "lpg": 14863.81,
+        "smoke": 106450.15,
+        "alcohol": 416.14,
+        "methane": 0.7,
+        "co": 168.02,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14841.17,
+        "smoke": 106312.43,
+        "alcohol": 416.15,
+        "methane": 0.7,
+        "co": 167.87,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14844.67,
+        "smoke": 106276.99,
+        "alcohol": 416.01,
+        "methane": 0.7,
+        "co": 168.01,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14841.75,
+        "smoke": 106354.37,
+        "alcohol": 416.08,
+        "methane": 0.7,
+        "co": 167.99,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14842.51,
+        "smoke": 106391.05,
+        "alcohol": 415.38,
+        "methane": 0.7,
+        "co": 167.9,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14862.87,
+        "smoke": 106410.18,
+        "alcohol": 415.48,
+        "methane": 0.7,
+        "co": 167.81,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14849.67,
+        "smoke": 106374.22,
+        "alcohol": 416.14,
+        "methane": 0.7,
+        "co": 167.93,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14843.16,
+        "smoke": 106462.11,
+        "alcohol": 415.42,
+        "methane": 0.7,
+        "co": 167.92,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14865.95,
+        "smoke": 106423.82,
+        "alcohol": 415.48,
+        "methane": 0.7,
+        "co": 167.97,
+        "flammable_gas": 64.69
+    },
+    {
+        "lpg": 14868.28,
+        "smoke": 106432.68,
+        "alcohol": 416.18,
+        "methane": 0.7,
+        "co": 167.82,
+        "flammable_gas": 64.65
+    },
+    {
+        "lpg": 14868.15,
+        "smoke": 106303.04,
+        "alcohol": 415.54,
+        "methane": 0.7,
+        "co": 167.89,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14851.58,
+        "smoke": 106449.56,
+        "alcohol": 415.94,
+        "methane": 0.7,
+        "co": 167.89,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14853.22,
+        "smoke": 106317.0,
+        "alcohol": 415.78,
+        "methane": 0.7,
+        "co": 168.06,
+        "flammable_gas": 64.65
+    },
+    {
+        "lpg": 14863.43,
+        "smoke": 106254.59,
+        "alcohol": 415.38,
+        "methane": 0.7,
+        "co": 167.83,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14862.97,
+        "smoke": 106314.86,
+        "alcohol": 416.04,
+        "methane": 0.7,
+        "co": 167.89,
+        "flammable_gas": 64.69
+    },
+    {
+        "lpg": 14863.6,
+        "smoke": 106266.06,
+        "alcohol": 415.71,
+        "methane": 0.7,
+        "co": 168.1,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14869.01,
+        "smoke": 106356.64,
+        "alcohol": 415.7,
+        "methane": 0.7,
+        "co": 167.96,
+        "flammable_gas": 64.69
+    },
+    {
+        "lpg": 14844.36,
+        "smoke": 106406.18,
+        "alcohol": 416.09,
+        "methane": 0.7,
+        "co": 167.93,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14853.79,
+        "smoke": 106255.36,
+        "alcohol": 415.82,
+        "methane": 0.7,
+        "co": 167.94,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14862.38,
+        "smoke": 106406.43,
+        "alcohol": 416.19,
+        "methane": 0.7,
+        "co": 167.84,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14842.16,
+        "smoke": 106376.88,
+        "alcohol": 416.03,
+        "methane": 0.7,
+        "co": 167.91,
+        "flammable_gas": 64.57
+    },
+    {
+        "lpg": 14854.54,
+        "smoke": 106408.53,
+        "alcohol": 415.93,
+        "methane": 0.7,
+        "co": 167.94,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14861.03,
+        "smoke": 106367.38,
+        "alcohol": 415.44,
+        "methane": 0.7,
+        "co": 167.84,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14869.74,
+        "smoke": 106374.71,
+        "alcohol": 415.73,
+        "methane": 0.7,
+        "co": 167.84,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14854.03,
+        "smoke": 106390.44,
+        "alcohol": 415.57,
+        "methane": 0.7,
+        "co": 168.07,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14845.4,
+        "smoke": 106433.41,
+        "alcohol": 416.16,
+        "methane": 0.7,
+        "co": 167.87,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14846.58,
+        "smoke": 106443.68,
+        "alcohol": 415.59,
+        "methane": 0.7,
+        "co": 168.06,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14854.77,
+        "smoke": 106450.16,
+        "alcohol": 415.69,
+        "methane": 0.7,
+        "co": 168.08,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14841.26,
+        "smoke": 106411.87,
+        "alcohol": 416.06,
+        "methane": 0.7,
+        "co": 168.11,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14857.46,
+        "smoke": 106371.12,
+        "alcohol": 415.93,
+        "methane": 0.7,
+        "co": 168.09,
+        "flammable_gas": 64.65
+    },
+    {
+        "lpg": 14848.25,
+        "smoke": 106428.07,
+        "alcohol": 415.79,
+        "methane": 0.7,
+        "co": 167.95,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14850.29,
+        "smoke": 106283.45,
+        "alcohol": 415.52,
+        "methane": 0.7,
+        "co": 168.13,
+        "flammable_gas": 64.57
+    },
+    {
+        "lpg": 14858.44,
+        "smoke": 106377.73,
+        "alcohol": 415.73,
+        "methane": 0.7,
+        "co": 168.04,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14865.57,
+        "smoke": 106450.19,
+        "alcohol": 415.65,
+        "methane": 0.7,
+        "co": 168.0,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14851.48,
+        "smoke": 106340.43,
+        "alcohol": 415.64,
+        "methane": 0.7,
+        "co": 167.89,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14843.86,
+        "smoke": 106271.21,
+        "alcohol": 415.87,
+        "methane": 0.7,
+        "co": 168.04,
+        "flammable_gas": 64.57
+    },
+    {
+        "lpg": 14852.1,
+        "smoke": 106338.72,
+        "alcohol": 415.56,
+        "methane": 0.7,
+        "co": 168.11,
+        "flammable_gas": 64.65
+    },
+    {
+        "lpg": 14862.61,
+        "smoke": 106397.75,
+        "alcohol": 415.48,
+        "methane": 0.7,
+        "co": 167.88,
+        "flammable_gas": 64.57
+    },
+    {
+        "lpg": 14862.34,
+        "smoke": 106415.51,
+        "alcohol": 415.72,
+        "methane": 0.7,
+        "co": 167.93,
+        "flammable_gas": 64.57
+    },
+    {
+        "lpg": 14860.64,
+        "smoke": 106299.62,
+        "alcohol": 415.99,
+        "methane": 0.7,
+        "co": 167.91,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14843.01,
+        "smoke": 106323.4,
+        "alcohol": 415.86,
+        "methane": 0.7,
+        "co": 167.93,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14846.99,
+        "smoke": 106408.22,
+        "alcohol": 415.62,
+        "methane": 0.7,
+        "co": 167.87,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14855.01,
+        "smoke": 106300.01,
+        "alcohol": 415.56,
+        "methane": 0.7,
+        "co": 167.85,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14846.38,
+        "smoke": 106346.84,
+        "alcohol": 415.88,
+        "methane": 0.7,
+        "co": 167.97,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14867.4,
+        "smoke": 106351.82,
+        "alcohol": 415.84,
+        "methane": 0.7,
+        "co": 167.83,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14843.06,
+        "smoke": 106358.2,
+        "alcohol": 415.44,
+        "methane": 0.7,
+        "co": 168.05,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14844.76,
+        "smoke": 106338.84,
+        "alcohol": 415.41,
+        "methane": 0.7,
+        "co": 168.01,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14860.39,
+        "smoke": 106445.27,
+        "alcohol": 415.97,
+        "methane": 0.7,
+        "co": 167.84,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14848.46,
+        "smoke": 106429.56,
+        "alcohol": 415.53,
+        "methane": 0.7,
+        "co": 167.87,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14842.01,
+        "smoke": 106285.01,
+        "alcohol": 415.39,
+        "methane": 0.7,
+        "co": 167.97,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14841.79,
+        "smoke": 106304.44,
+        "alcohol": 415.68,
+        "methane": 0.7,
+        "co": 167.85,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14853.2,
+        "smoke": 106338.17,
+        "alcohol": 415.84,
+        "methane": 0.7,
+        "co": 167.86,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14865.11,
+        "smoke": 106277.88,
+        "alcohol": 415.96,
+        "methane": 0.7,
+        "co": 167.9,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14855.36,
+        "smoke": 106400.21,
+        "alcohol": 415.68,
+        "methane": 0.7,
+        "co": 167.92,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14859.35,
+        "smoke": 106371.25,
+        "alcohol": 415.6,
+        "methane": 0.7,
+        "co": 168.12,
+        "flammable_gas": 64.69
+    },
+    {
+        "lpg": 14848.0,
+        "smoke": 106277.81,
+        "alcohol": 415.49,
+        "methane": 0.7,
+        "co": 167.89,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14844.84,
+        "smoke": 106263.39,
+        "alcohol": 416.09,
+        "methane": 0.7,
+        "co": 167.92,
+        "flammable_gas": 64.57
+    },
+    {
+        "lpg": 14850.08,
+        "smoke": 106289.08,
+        "alcohol": 415.56,
+        "methane": 0.7,
+        "co": 167.82,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14854.82,
+        "smoke": 106269.88,
+        "alcohol": 415.75,
+        "methane": 0.7,
+        "co": 168.13,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14867.24,
+        "smoke": 106366.35,
+        "alcohol": 415.64,
+        "methane": 0.7,
+        "co": 168.11,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14845.45,
+        "smoke": 106351.97,
+        "alcohol": 415.75,
+        "methane": 0.7,
+        "co": 167.95,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14869.22,
+        "smoke": 106294.52,
+        "alcohol": 415.75,
+        "methane": 0.7,
+        "co": 167.92,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14865.64,
+        "smoke": 106321.79,
+        "alcohol": 416.04,
+        "methane": 0.7,
+        "co": 167.86,
+        "flammable_gas": 64.65
+    },
+    {
+        "lpg": 14866.56,
+        "smoke": 106434.52,
+        "alcohol": 415.6,
+        "methane": 0.7,
+        "co": 167.96,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14862.78,
+        "smoke": 106440.77,
+        "alcohol": 416.11,
+        "methane": 0.7,
+        "co": 168.08,
+        "flammable_gas": 64.57
+    },
+    {
+        "lpg": 14841.39,
+        "smoke": 106448.43,
+        "alcohol": 415.8,
+        "methane": 0.7,
+        "co": 168.09,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14841.87,
+        "smoke": 106279.05,
+        "alcohol": 416.19,
+        "methane": 0.7,
+        "co": 167.82,
+        "flammable_gas": 64.69
+    },
+    {
+        "lpg": 14846.19,
+        "smoke": 106375.27,
+        "alcohol": 415.6,
+        "methane": 0.7,
+        "co": 168.03,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14861.44,
+        "smoke": 106442.65,
+        "alcohol": 415.7,
+        "methane": 0.7,
+        "co": 168.03,
+        "flammable_gas": 64.57
+    },
+    {
+        "lpg": 14853.5,
+        "smoke": 106264.29,
+        "alcohol": 415.52,
+        "methane": 0.7,
+        "co": 168.01,
+        "flammable_gas": 64.57
+    },
+    {
+        "lpg": 14853.15,
+        "smoke": 106422.15,
+        "alcohol": 415.76,
+        "methane": 0.7,
+        "co": 167.97,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14867.33,
+        "smoke": 106287.35,
+        "alcohol": 415.73,
+        "methane": 0.7,
+        "co": 168.02,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14849.48,
+        "smoke": 106392.7,
+        "alcohol": 415.7,
+        "methane": 0.7,
+        "co": 167.9,
+        "flammable_gas": 64.57
+    },
+    {
+        "lpg": 14864.41,
+        "smoke": 106411.63,
+        "alcohol": 416.0,
+        "methane": 0.7,
+        "co": 168.1,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14866.61,
+        "smoke": 106358.69,
+        "alcohol": 415.73,
+        "methane": 0.7,
+        "co": 167.82,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14860.73,
+        "smoke": 106367.06,
+        "alcohol": 416.0,
+        "methane": 0.7,
+        "co": 167.96,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14862.69,
+        "smoke": 106341.93,
+        "alcohol": 416.12,
+        "methane": 0.7,
+        "co": 167.84,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14840.75,
+        "smoke": 106434.45,
+        "alcohol": 415.81,
+        "methane": 0.7,
+        "co": 168.02,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14853.12,
+        "smoke": 106255.42,
+        "alcohol": 416.2,
+        "methane": 0.7,
+        "co": 168.13,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14852.66,
+        "smoke": 106297.86,
+        "alcohol": 416.12,
+        "methane": 0.7,
+        "co": 167.96,
+        "flammable_gas": 64.65
+    },
+    {
+        "lpg": 14846.06,
+        "smoke": 106339.23,
+        "alcohol": 415.77,
+        "methane": 0.7,
+        "co": 167.89,
+        "flammable_gas": 64.57
+    },
+    {
+        "lpg": 14865.14,
+        "smoke": 106293.99,
+        "alcohol": 415.7,
+        "methane": 0.7,
+        "co": 167.99,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14863.48,
+        "smoke": 106339.64,
+        "alcohol": 416.02,
+        "methane": 0.7,
+        "co": 167.87,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14840.33,
+        "smoke": 106303.88,
+        "alcohol": 415.75,
+        "methane": 0.7,
+        "co": 168.06,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14848.25,
+        "smoke": 106422.51,
+        "alcohol": 415.75,
+        "methane": 0.7,
+        "co": 167.82,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14862.3,
+        "smoke": 106361.26,
+        "alcohol": 416.12,
+        "methane": 0.7,
+        "co": 167.88,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14840.87,
+        "smoke": 106454.9,
+        "alcohol": 416.18,
+        "methane": 0.7,
+        "co": 168.06,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14842.67,
+        "smoke": 106349.24,
+        "alcohol": 415.98,
+        "methane": 0.7,
+        "co": 168.0,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14852.97,
+        "smoke": 106320.89,
+        "alcohol": 415.98,
+        "methane": 0.7,
+        "co": 168.01,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14863.24,
+        "smoke": 106383.47,
+        "alcohol": 415.76,
+        "methane": 0.7,
+        "co": 168.05,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14842.02,
+        "smoke": 106318.75,
+        "alcohol": 415.97,
+        "methane": 0.7,
+        "co": 168.03,
+        "flammable_gas": 64.69
+    },
+    {
+        "lpg": 14840.76,
+        "smoke": 106296.09,
+        "alcohol": 416.0,
+        "methane": 0.7,
+        "co": 167.95,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14862.95,
+        "smoke": 106441.38,
+        "alcohol": 415.93,
+        "methane": 0.7,
+        "co": 167.95,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14857.82,
+        "smoke": 106318.04,
+        "alcohol": 415.78,
+        "methane": 0.7,
+        "co": 168.01,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14860.45,
+        "smoke": 106464.04,
+        "alcohol": 416.01,
+        "methane": 0.7,
+        "co": 167.94,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14851.94,
+        "smoke": 106461.89,
+        "alcohol": 415.43,
+        "methane": 0.7,
+        "co": 168.03,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14869.61,
+        "smoke": 106261.61,
+        "alcohol": 415.38,
+        "methane": 0.7,
+        "co": 168.0,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14868.59,
+        "smoke": 106369.11,
+        "alcohol": 415.39,
+        "methane": 0.7,
+        "co": 167.91,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14844.41,
+        "smoke": 106380.12,
+        "alcohol": 415.46,
+        "methane": 0.7,
+        "co": 167.88,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14849.02,
+        "smoke": 106422.64,
+        "alcohol": 415.76,
+        "methane": 0.7,
+        "co": 168.08,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14869.59,
+        "smoke": 106408.05,
+        "alcohol": 415.71,
+        "methane": 0.7,
+        "co": 167.96,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14868.65,
+        "smoke": 106254.13,
+        "alcohol": 415.79,
+        "methane": 0.7,
+        "co": 167.81,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14840.69,
+        "smoke": 106441.04,
+        "alcohol": 416.19,
+        "methane": 0.7,
+        "co": 168.11,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14862.44,
+        "smoke": 106325.02,
+        "alcohol": 415.84,
+        "methane": 0.7,
+        "co": 168.1,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14846.19,
+        "smoke": 106435.22,
+        "alcohol": 415.61,
+        "methane": 0.7,
+        "co": 167.98,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14854.13,
+        "smoke": 106374.97,
+        "alcohol": 416.07,
+        "methane": 0.7,
+        "co": 168.13,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14856.9,
+        "smoke": 106436.22,
+        "alcohol": 415.41,
+        "methane": 0.7,
+        "co": 168.04,
+        "flammable_gas": 64.57
+    },
+    {
+        "lpg": 14850.43,
+        "smoke": 106431.2,
+        "alcohol": 415.66,
+        "methane": 0.7,
+        "co": 167.95,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14861.02,
+        "smoke": 106313.57,
+        "alcohol": 415.44,
+        "methane": 0.7,
+        "co": 168.11,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14860.96,
+        "smoke": 106353.56,
+        "alcohol": 415.7,
+        "methane": 0.7,
+        "co": 167.88,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14849.46,
+        "smoke": 106421.72,
+        "alcohol": 415.61,
+        "methane": 0.7,
+        "co": 167.84,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14841.42,
+        "smoke": 106381.23,
+        "alcohol": 415.86,
+        "methane": 0.7,
+        "co": 168.01,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14846.96,
+        "smoke": 106322.14,
+        "alcohol": 415.85,
+        "methane": 0.7,
+        "co": 167.89,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14869.06,
+        "smoke": 106420.04,
+        "alcohol": 415.84,
+        "methane": 0.7,
+        "co": 168.11,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14861.1,
+        "smoke": 106360.37,
+        "alcohol": 415.72,
+        "methane": 0.7,
+        "co": 168.12,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14864.2,
+        "smoke": 106412.89,
+        "alcohol": 415.95,
+        "methane": 0.7,
+        "co": 167.88,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14868.19,
+        "smoke": 106367.71,
+        "alcohol": 415.89,
+        "methane": 0.7,
+        "co": 167.98,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14844.77,
+        "smoke": 106342.51,
+        "alcohol": 415.69,
+        "methane": 0.7,
+        "co": 167.84,
+        "flammable_gas": 64.69
+    },
+    {
+        "lpg": 14860.29,
+        "smoke": 106439.05,
+        "alcohol": 415.64,
+        "methane": 0.7,
+        "co": 168.1,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14858.47,
+        "smoke": 106329.65,
+        "alcohol": 416.16,
+        "methane": 0.7,
+        "co": 168.05,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14845.28,
+        "smoke": 106390.58,
+        "alcohol": 416.04,
+        "methane": 0.7,
+        "co": 168.06,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14858.9,
+        "smoke": 106383.78,
+        "alcohol": 415.69,
+        "methane": 0.7,
+        "co": 167.86,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14854.87,
+        "smoke": 106264.4,
+        "alcohol": 415.68,
+        "methane": 0.7,
+        "co": 168.07,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14852.24,
+        "smoke": 106290.43,
+        "alcohol": 415.75,
+        "methane": 0.7,
+        "co": 168.05,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14860.68,
+        "smoke": 106382.08,
+        "alcohol": 416.1,
+        "methane": 0.7,
+        "co": 167.82,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14842.69,
+        "smoke": 106424.16,
+        "alcohol": 416.13,
+        "methane": 0.7,
+        "co": 168.05,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14844.91,
+        "smoke": 106270.14,
+        "alcohol": 415.62,
+        "methane": 0.7,
+        "co": 167.91,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14856.37,
+        "smoke": 106449.61,
+        "alcohol": 415.38,
+        "methane": 0.7,
+        "co": 167.98,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14851.24,
+        "smoke": 106375.27,
+        "alcohol": 415.84,
+        "methane": 0.7,
+        "co": 168.07,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14855.65,
+        "smoke": 106401.2,
+        "alcohol": 416.07,
+        "methane": 0.7,
+        "co": 168.09,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14863.13,
+        "smoke": 106373.46,
+        "alcohol": 416.0,
+        "methane": 0.7,
+        "co": 167.88,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14853.4,
+        "smoke": 106437.11,
+        "alcohol": 415.47,
+        "methane": 0.7,
+        "co": 167.92,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14855.38,
+        "smoke": 106290.81,
+        "alcohol": 415.4,
+        "methane": 0.7,
+        "co": 167.92,
+        "flammable_gas": 64.57
+    },
+    {
+        "lpg": 14866.94,
+        "smoke": 106274.55,
+        "alcohol": 416.17,
+        "methane": 0.7,
+        "co": 167.82,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14846.14,
+        "smoke": 106306.86,
+        "alcohol": 416.11,
+        "methane": 0.7,
+        "co": 167.9,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14857.82,
+        "smoke": 106434.53,
+        "alcohol": 416.1,
+        "methane": 0.7,
+        "co": 167.86,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14858.68,
+        "smoke": 106431.32,
+        "alcohol": 416.15,
+        "methane": 0.7,
+        "co": 168.0,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14840.28,
+        "smoke": 106380.17,
+        "alcohol": 415.51,
+        "methane": 0.7,
+        "co": 167.98,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14854.15,
+        "smoke": 106441.03,
+        "alcohol": 415.68,
+        "methane": 0.7,
+        "co": 167.8,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14844.6,
+        "smoke": 106321.14,
+        "alcohol": 416.07,
+        "methane": 0.7,
+        "co": 167.97,
+        "flammable_gas": 64.57
+    },
+    {
+        "lpg": 14867.4,
+        "smoke": 106418.92,
+        "alcohol": 415.79,
+        "methane": 0.7,
+        "co": 167.83,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14860.68,
+        "smoke": 106462.33,
+        "alcohol": 415.4,
+        "methane": 0.7,
+        "co": 168.1,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14868.09,
+        "smoke": 106446.65,
+        "alcohol": 416.21,
+        "methane": 0.7,
+        "co": 167.96,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14853.41,
+        "smoke": 106280.24,
+        "alcohol": 416.16,
+        "methane": 0.7,
+        "co": 167.85,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14860.46,
+        "smoke": 106445.07,
+        "alcohol": 415.45,
+        "methane": 0.7,
+        "co": 167.99,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14853.01,
+        "smoke": 106439.29,
+        "alcohol": 415.86,
+        "methane": 0.7,
+        "co": 168.08,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14863.13,
+        "smoke": 106452.86,
+        "alcohol": 415.75,
+        "methane": 0.7,
+        "co": 167.86,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14845.61,
+        "smoke": 106359.33,
+        "alcohol": 416.01,
+        "methane": 0.7,
+        "co": 167.91,
+        "flammable_gas": 64.57
+    },
+    {
+        "lpg": 14859.18,
+        "smoke": 106343.41,
+        "alcohol": 416.1,
+        "methane": 0.7,
+        "co": 168.13,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14862.76,
+        "smoke": 106257.49,
+        "alcohol": 415.52,
+        "methane": 0.7,
+        "co": 167.95,
+        "flammable_gas": 64.57
+    },
+    {
+        "lpg": 14862.3,
+        "smoke": 106382.27,
+        "alcohol": 415.79,
+        "methane": 0.7,
+        "co": 167.94,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14852.31,
+        "smoke": 106317.67,
+        "alcohol": 416.12,
+        "methane": 0.7,
+        "co": 167.85,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14853.42,
+        "smoke": 106319.72,
+        "alcohol": 415.99,
+        "methane": 0.7,
+        "co": 168.1,
+        "flammable_gas": 64.69
+    },
+    {
+        "lpg": 14861.54,
+        "smoke": 106277.77,
+        "alcohol": 415.4,
+        "methane": 0.7,
+        "co": 167.87,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14845.51,
+        "smoke": 106306.1,
+        "alcohol": 415.7,
+        "methane": 0.7,
+        "co": 167.96,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14847.07,
+        "smoke": 106448.6,
+        "alcohol": 415.59,
+        "methane": 0.7,
+        "co": 168.06,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14850.11,
+        "smoke": 106274.88,
+        "alcohol": 415.61,
+        "methane": 0.7,
+        "co": 168.0,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14856.38,
+        "smoke": 106436.8,
+        "alcohol": 415.83,
+        "methane": 0.7,
+        "co": 167.98,
+        "flammable_gas": 64.57
+    },
+    {
+        "lpg": 14849.29,
+        "smoke": 106317.23,
+        "alcohol": 415.72,
+        "methane": 0.7,
+        "co": 167.89,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14866.55,
+        "smoke": 106286.96,
+        "alcohol": 416.18,
+        "methane": 0.7,
+        "co": 167.81,
+        "flammable_gas": 64.65
+    },
+    {
+        "lpg": 14844.31,
+        "smoke": 106429.74,
+        "alcohol": 416.13,
+        "methane": 0.7,
+        "co": 167.8,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14852.44,
+        "smoke": 106380.18,
+        "alcohol": 415.93,
+        "methane": 0.7,
+        "co": 167.84,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14869.45,
+        "smoke": 106301.34,
+        "alcohol": 415.7,
+        "methane": 0.7,
+        "co": 167.82,
+        "flammable_gas": 64.57
+    },
+    {
+        "lpg": 14859.81,
+        "smoke": 106323.87,
+        "alcohol": 415.42,
+        "methane": 0.7,
+        "co": 167.93,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14863.28,
+        "smoke": 106305.32,
+        "alcohol": 416.06,
+        "methane": 0.7,
+        "co": 168.06,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14861.58,
+        "smoke": 106391.87,
+        "alcohol": 415.84,
+        "methane": 0.7,
+        "co": 167.85,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14868.83,
+        "smoke": 106454.38,
+        "alcohol": 416.04,
+        "methane": 0.7,
+        "co": 167.95,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14863.17,
+        "smoke": 106262.72,
+        "alcohol": 416.01,
+        "methane": 0.7,
+        "co": 167.94,
+        "flammable_gas": 64.57
+    },
+    {
+        "lpg": 14867.48,
+        "smoke": 106397.8,
+        "alcohol": 416.09,
+        "methane": 0.7,
+        "co": 167.86,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14851.85,
+        "smoke": 106371.69,
+        "alcohol": 416.12,
+        "methane": 0.7,
+        "co": 168.08,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14845.34,
+        "smoke": 106447.88,
+        "alcohol": 415.62,
+        "methane": 0.7,
+        "co": 167.98,
+        "flammable_gas": 64.65
+    },
+    {
+        "lpg": 14853.32,
+        "smoke": 106464.11,
+        "alcohol": 416.1,
+        "methane": 0.7,
+        "co": 167.81,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14848.1,
+        "smoke": 106381.15,
+        "alcohol": 415.65,
+        "methane": 0.7,
+        "co": 167.92,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14861.75,
+        "smoke": 106339.59,
+        "alcohol": 415.4,
+        "methane": 0.7,
+        "co": 168.0,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14845.56,
+        "smoke": 106393.52,
+        "alcohol": 415.61,
+        "methane": 0.7,
+        "co": 167.97,
+        "flammable_gas": 64.69
+    },
+    {
+        "lpg": 14865.4,
+        "smoke": 106399.49,
+        "alcohol": 415.88,
+        "methane": 0.7,
+        "co": 168.09,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14845.65,
+        "smoke": 106330.9,
+        "alcohol": 415.42,
+        "methane": 0.7,
+        "co": 168.03,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14844.28,
+        "smoke": 106253.56,
+        "alcohol": 415.69,
+        "methane": 0.7,
+        "co": 168.13,
+        "flammable_gas": 64.65
+    },
+    {
+        "lpg": 14856.26,
+        "smoke": 106421.21,
+        "alcohol": 415.55,
+        "methane": 0.7,
+        "co": 168.14,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14848.65,
+        "smoke": 106280.08,
+        "alcohol": 416.15,
+        "methane": 0.7,
+        "co": 167.84,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14858.44,
+        "smoke": 106345.79,
+        "alcohol": 415.89,
+        "methane": 0.7,
+        "co": 167.98,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14865.16,
+        "smoke": 106302.92,
+        "alcohol": 415.85,
+        "methane": 0.7,
+        "co": 167.91,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14848.76,
+        "smoke": 106423.61,
+        "alcohol": 415.77,
+        "methane": 0.7,
+        "co": 167.88,
+        "flammable_gas": 64.57
+    },
+    {
+        "lpg": 14862.81,
+        "smoke": 106308.68,
+        "alcohol": 415.46,
+        "methane": 0.7,
+        "co": 168.05,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14848.69,
+        "smoke": 106384.73,
+        "alcohol": 415.75,
+        "methane": 0.7,
+        "co": 167.98,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14864.85,
+        "smoke": 106416.48,
+        "alcohol": 415.75,
+        "methane": 0.7,
+        "co": 167.91,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14856.55,
+        "smoke": 106305.85,
+        "alcohol": 415.51,
+        "methane": 0.7,
+        "co": 167.95,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14860.95,
+        "smoke": 106380.08,
+        "alcohol": 415.57,
+        "methane": 0.7,
+        "co": 167.92,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14865.4,
+        "smoke": 106418.44,
+        "alcohol": 415.56,
+        "methane": 0.7,
+        "co": 167.97,
+        "flammable_gas": 64.65
+    },
+    {
+        "lpg": 14841.19,
+        "smoke": 106319.89,
+        "alcohol": 415.6,
+        "methane": 0.7,
+        "co": 168.01,
+        "flammable_gas": 64.65
+    },
+    {
+        "lpg": 14867.63,
+        "smoke": 106422.7,
+        "alcohol": 415.41,
+        "methane": 0.7,
+        "co": 167.91,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14843.6,
+        "smoke": 106361.49,
+        "alcohol": 416.02,
+        "methane": 0.7,
+        "co": 167.97,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14854.02,
+        "smoke": 106392.35,
+        "alcohol": 415.87,
+        "methane": 0.7,
+        "co": 168.06,
+        "flammable_gas": 64.57
+    },
+    {
+        "lpg": 14856.23,
+        "smoke": 106440.61,
+        "alcohol": 415.59,
+        "methane": 0.7,
+        "co": 167.91,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14867.77,
+        "smoke": 106426.73,
+        "alcohol": 416.18,
+        "methane": 0.7,
+        "co": 167.87,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14861.06,
+        "smoke": 106381.27,
+        "alcohol": 415.43,
+        "methane": 0.7,
+        "co": 167.86,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14844.69,
+        "smoke": 106429.75,
+        "alcohol": 415.93,
+        "methane": 0.7,
+        "co": 167.93,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14844.67,
+        "smoke": 106394.16,
+        "alcohol": 416.04,
+        "methane": 0.7,
+        "co": 167.99,
+        "flammable_gas": 64.65
+    },
+    {
+        "lpg": 14841.84,
+        "smoke": 106345.31,
+        "alcohol": 415.53,
+        "methane": 0.7,
+        "co": 168.1,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14850.02,
+        "smoke": 106438.03,
+        "alcohol": 415.78,
+        "methane": 0.7,
+        "co": 167.83,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14858.84,
+        "smoke": 106438.0,
+        "alcohol": 415.65,
+        "methane": 0.7,
+        "co": 167.86,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14849.62,
+        "smoke": 106387.23,
+        "alcohol": 415.74,
+        "methane": 0.7,
+        "co": 167.92,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14865.46,
+        "smoke": 106283.26,
+        "alcohol": 415.66,
+        "methane": 0.7,
+        "co": 168.01,
+        "flammable_gas": 64.69
+    },
+    {
+        "lpg": 14857.4,
+        "smoke": 106294.63,
+        "alcohol": 415.84,
+        "methane": 0.7,
+        "co": 167.88,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14861.69,
+        "smoke": 106464.09,
+        "alcohol": 415.88,
+        "methane": 0.7,
+        "co": 168.08,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14846.89,
+        "smoke": 106361.04,
+        "alcohol": 416.07,
+        "methane": 0.7,
+        "co": 167.96,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14853.04,
+        "smoke": 106437.5,
+        "alcohol": 415.38,
+        "methane": 0.7,
+        "co": 168.0,
+        "flammable_gas": 64.69
+    },
+    {
+        "lpg": 14844.76,
+        "smoke": 106324.26,
+        "alcohol": 415.79,
+        "methane": 0.7,
+        "co": 167.83,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14845.4,
+        "smoke": 106324.46,
+        "alcohol": 415.45,
+        "methane": 0.7,
+        "co": 167.9,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14857.26,
+        "smoke": 106305.38,
+        "alcohol": 415.46,
+        "methane": 0.7,
+        "co": 168.13,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14867.62,
+        "smoke": 106386.57,
+        "alcohol": 415.55,
+        "methane": 0.7,
+        "co": 168.02,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14851.02,
+        "smoke": 106302.59,
+        "alcohol": 415.71,
+        "methane": 0.7,
+        "co": 167.97,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14840.75,
+        "smoke": 106463.87,
+        "alcohol": 415.66,
+        "methane": 0.7,
+        "co": 168.1,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14849.03,
+        "smoke": 106393.49,
+        "alcohol": 415.58,
+        "methane": 0.7,
+        "co": 167.87,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14855.69,
+        "smoke": 106322.86,
+        "alcohol": 415.62,
+        "methane": 0.7,
+        "co": 167.81,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14852.61,
+        "smoke": 106330.06,
+        "alcohol": 415.61,
+        "methane": 0.7,
+        "co": 168.02,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14843.57,
+        "smoke": 106389.09,
+        "alcohol": 416.13,
+        "methane": 0.7,
+        "co": 168.14,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14858.42,
+        "smoke": 106365.15,
+        "alcohol": 416.02,
+        "methane": 0.7,
+        "co": 167.88,
+        "flammable_gas": 64.69
+    },
+    {
+        "lpg": 14842.92,
+        "smoke": 106334.39,
+        "alcohol": 415.66,
+        "methane": 0.7,
+        "co": 168.13,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14867.15,
+        "smoke": 106399.12,
+        "alcohol": 415.5,
+        "methane": 0.7,
+        "co": 168.04,
+        "flammable_gas": 64.57
+    },
+    {
+        "lpg": 14859.59,
+        "smoke": 106338.06,
+        "alcohol": 415.65,
+        "methane": 0.7,
+        "co": 168.08,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14858.45,
+        "smoke": 106385.92,
+        "alcohol": 415.75,
+        "methane": 0.7,
+        "co": 167.88,
+        "flammable_gas": 64.69
+    },
+    {
+        "lpg": 14867.87,
+        "smoke": 106335.0,
+        "alcohol": 415.38,
+        "methane": 0.7,
+        "co": 167.96,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14848.12,
+        "smoke": 106346.1,
+        "alcohol": 415.52,
+        "methane": 0.7,
+        "co": 168.04,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14869.34,
+        "smoke": 106417.65,
+        "alcohol": 416.0,
+        "methane": 0.7,
+        "co": 167.82,
+        "flammable_gas": 64.57
+    },
+    {
+        "lpg": 14867.55,
+        "smoke": 106380.7,
+        "alcohol": 415.57,
+        "methane": 0.7,
+        "co": 167.94,
+        "flammable_gas": 64.69
+    },
+    {
+        "lpg": 14854.77,
+        "smoke": 106398.97,
+        "alcohol": 416.07,
+        "methane": 0.7,
+        "co": 168.09,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14840.73,
+        "smoke": 106407.29,
+        "alcohol": 415.55,
+        "methane": 0.7,
+        "co": 168.01,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14854.06,
+        "smoke": 106340.55,
+        "alcohol": 415.58,
+        "methane": 0.7,
+        "co": 167.95,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14866.79,
+        "smoke": 106258.86,
+        "alcohol": 415.38,
+        "methane": 0.7,
+        "co": 167.87,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14856.41,
+        "smoke": 106303.23,
+        "alcohol": 416.05,
+        "methane": 0.7,
+        "co": 168.0,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14855.52,
+        "smoke": 106365.23,
+        "alcohol": 415.91,
+        "methane": 0.7,
+        "co": 167.87,
+        "flammable_gas": 64.65
+    },
+    {
+        "lpg": 14856.08,
+        "smoke": 106300.9,
+        "alcohol": 415.89,
+        "methane": 0.7,
+        "co": 167.84,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14863.96,
+        "smoke": 106261.03,
+        "alcohol": 415.82,
+        "methane": 0.7,
+        "co": 167.88,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14868.99,
+        "smoke": 106432.01,
+        "alcohol": 415.55,
+        "methane": 0.7,
+        "co": 167.82,
+        "flammable_gas": 64.57
+    },
+    {
+        "lpg": 14865.71,
+        "smoke": 106460.61,
+        "alcohol": 416.01,
+        "methane": 0.7,
+        "co": 168.05,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14857.09,
+        "smoke": 106430.47,
+        "alcohol": 415.96,
+        "methane": 0.7,
+        "co": 167.9,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14859.86,
+        "smoke": 106392.41,
+        "alcohol": 415.98,
+        "methane": 0.7,
+        "co": 167.98,
+        "flammable_gas": 64.65
+    },
+    {
+        "lpg": 14857.39,
+        "smoke": 106278.95,
+        "alcohol": 415.77,
+        "methane": 0.7,
+        "co": 168.11,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14856.33,
+        "smoke": 106377.89,
+        "alcohol": 415.8,
+        "methane": 0.7,
+        "co": 168.02,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14866.51,
+        "smoke": 106360.65,
+        "alcohol": 415.39,
+        "methane": 0.7,
+        "co": 168.03,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14847.76,
+        "smoke": 106285.63,
+        "alcohol": 415.66,
+        "methane": 0.7,
+        "co": 168.09,
+        "flammable_gas": 64.69
+    },
+    {
+        "lpg": 14856.05,
+        "smoke": 106289.41,
+        "alcohol": 415.61,
+        "methane": 0.7,
+        "co": 167.92,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14862.66,
+        "smoke": 106403.78,
+        "alcohol": 416.07,
+        "methane": 0.7,
+        "co": 168.1,
+        "flammable_gas": 64.69
+    },
+    {
+        "lpg": 14862.79,
+        "smoke": 106420.84,
+        "alcohol": 415.56,
+        "methane": 0.7,
+        "co": 168.0,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14847.61,
+        "smoke": 106281.68,
+        "alcohol": 415.52,
+        "methane": 0.7,
+        "co": 167.9,
+        "flammable_gas": 64.65
+    },
+    {
+        "lpg": 14858.26,
+        "smoke": 106443.27,
+        "alcohol": 415.79,
+        "methane": 0.7,
+        "co": 167.9,
+        "flammable_gas": 64.69
+    },
+    {
+        "lpg": 14848.24,
+        "smoke": 106449.73,
+        "alcohol": 415.97,
+        "methane": 0.7,
+        "co": 167.85,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14852.3,
+        "smoke": 106399.05,
+        "alcohol": 415.76,
+        "methane": 0.7,
+        "co": 168.05,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14860.03,
+        "smoke": 106286.12,
+        "alcohol": 415.97,
+        "methane": 0.7,
+        "co": 168.14,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14845.15,
+        "smoke": 106444.97,
+        "alcohol": 415.8,
+        "methane": 0.7,
+        "co": 167.81,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14857.64,
+        "smoke": 106321.29,
+        "alcohol": 416.08,
+        "methane": 0.7,
+        "co": 168.1,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14865.79,
+        "smoke": 106451.03,
+        "alcohol": 415.64,
+        "methane": 0.7,
+        "co": 167.88,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14858.46,
+        "smoke": 106345.77,
+        "alcohol": 416.18,
+        "methane": 0.7,
+        "co": 167.88,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14851.77,
+        "smoke": 106308.14,
+        "alcohol": 415.61,
+        "methane": 0.7,
+        "co": 167.94,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14858.59,
+        "smoke": 106356.32,
+        "alcohol": 415.84,
+        "methane": 0.7,
+        "co": 168.08,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14861.85,
+        "smoke": 106322.83,
+        "alcohol": 415.7,
+        "methane": 0.7,
+        "co": 168.06,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14841.23,
+        "smoke": 106399.66,
+        "alcohol": 416.1,
+        "methane": 0.7,
+        "co": 168.04,
+        "flammable_gas": 64.69
+    },
+    {
+        "lpg": 14857.53,
+        "smoke": 106423.77,
+        "alcohol": 415.77,
+        "methane": 0.7,
+        "co": 168.02,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14842.38,
+        "smoke": 106396.82,
+        "alcohol": 415.98,
+        "methane": 0.7,
+        "co": 167.9,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14851.28,
+        "smoke": 106275.15,
+        "alcohol": 415.7,
+        "methane": 0.7,
+        "co": 168.14,
+        "flammable_gas": 64.65
+    },
+    {
+        "lpg": 14850.67,
+        "smoke": 106417.48,
+        "alcohol": 415.72,
+        "methane": 0.7,
+        "co": 167.83,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14864.93,
+        "smoke": 106278.48,
+        "alcohol": 415.64,
+        "methane": 0.7,
+        "co": 167.83,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14864.48,
+        "smoke": 106402.52,
+        "alcohol": 415.44,
+        "methane": 0.7,
+        "co": 168.14,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14861.1,
+        "smoke": 106277.79,
+        "alcohol": 415.63,
+        "methane": 0.7,
+        "co": 168.01,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14863.99,
+        "smoke": 106411.55,
+        "alcohol": 415.53,
+        "methane": 0.7,
+        "co": 168.11,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14865.18,
+        "smoke": 106383.05,
+        "alcohol": 415.84,
+        "methane": 0.7,
+        "co": 167.93,
+        "flammable_gas": 64.57
+    },
+    {
+        "lpg": 14856.62,
+        "smoke": 106254.09,
+        "alcohol": 415.53,
+        "methane": 0.7,
+        "co": 168.13,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14844.79,
+        "smoke": 106446.82,
+        "alcohol": 415.38,
+        "methane": 0.7,
+        "co": 168.08,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14848.55,
+        "smoke": 106423.03,
+        "alcohol": 416.04,
+        "methane": 0.7,
+        "co": 168.02,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14843.78,
+        "smoke": 106420.98,
+        "alcohol": 416.06,
+        "methane": 0.7,
+        "co": 168.05,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14856.64,
+        "smoke": 106444.41,
+        "alcohol": 415.96,
+        "methane": 0.7,
+        "co": 167.86,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14868.88,
+        "smoke": 106279.04,
+        "alcohol": 415.96,
+        "methane": 0.7,
+        "co": 167.87,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14857.29,
+        "smoke": 106440.35,
+        "alcohol": 416.14,
+        "methane": 0.7,
+        "co": 167.83,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14841.87,
+        "smoke": 106382.77,
+        "alcohol": 415.78,
+        "methane": 0.7,
+        "co": 168.05,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14868.82,
+        "smoke": 106343.63,
+        "alcohol": 415.81,
+        "methane": 0.7,
+        "co": 167.99,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14858.6,
+        "smoke": 106398.14,
+        "alcohol": 415.88,
+        "methane": 0.7,
+        "co": 167.9,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14866.77,
+        "smoke": 106402.62,
+        "alcohol": 415.39,
+        "methane": 0.7,
+        "co": 167.84,
+        "flammable_gas": 64.65
+    },
+    {
+        "lpg": 14869.48,
+        "smoke": 106313.63,
+        "alcohol": 415.56,
+        "methane": 0.7,
+        "co": 167.89,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14866.27,
+        "smoke": 106446.52,
+        "alcohol": 415.8,
+        "methane": 0.7,
+        "co": 167.88,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14841.64,
+        "smoke": 106306.63,
+        "alcohol": 415.63,
+        "methane": 0.7,
+        "co": 168.07,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14855.68,
+        "smoke": 106461.94,
+        "alcohol": 416.01,
+        "methane": 0.7,
+        "co": 167.98,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14841.08,
+        "smoke": 106403.03,
+        "alcohol": 415.77,
+        "methane": 0.7,
+        "co": 168.13,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14852.81,
+        "smoke": 106303.7,
+        "alcohol": 416.13,
+        "methane": 0.7,
+        "co": 168.12,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14851.85,
+        "smoke": 106347.55,
+        "alcohol": 415.86,
+        "methane": 0.7,
+        "co": 168.13,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14851.97,
+        "smoke": 106449.0,
+        "alcohol": 415.59,
+        "methane": 0.7,
+        "co": 167.81,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14861.34,
+        "smoke": 106362.85,
+        "alcohol": 415.82,
+        "methane": 0.7,
+        "co": 168.0,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14858.82,
+        "smoke": 106451.64,
+        "alcohol": 415.43,
+        "methane": 0.7,
+        "co": 168.08,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14842.94,
+        "smoke": 106439.62,
+        "alcohol": 416.08,
+        "methane": 0.7,
+        "co": 168.11,
+        "flammable_gas": 64.65
+    },
+    {
+        "lpg": 14866.62,
+        "smoke": 106341.42,
+        "alcohol": 415.61,
+        "methane": 0.7,
+        "co": 168.14,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14847.23,
+        "smoke": 106257.89,
+        "alcohol": 415.65,
+        "methane": 0.7,
+        "co": 167.85,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14867.26,
+        "smoke": 106454.97,
+        "alcohol": 415.46,
+        "methane": 0.7,
+        "co": 167.85,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14844.71,
+        "smoke": 106278.39,
+        "alcohol": 416.05,
+        "methane": 0.7,
+        "co": 168.03,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14841.51,
+        "smoke": 106388.37,
+        "alcohol": 415.78,
+        "methane": 0.7,
+        "co": 168.08,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14855.08,
+        "smoke": 106427.85,
+        "alcohol": 415.56,
+        "methane": 0.7,
+        "co": 167.9,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14848.28,
+        "smoke": 106307.1,
+        "alcohol": 415.75,
+        "methane": 0.7,
+        "co": 167.92,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14845.26,
+        "smoke": 106286.73,
+        "alcohol": 415.95,
+        "methane": 0.7,
+        "co": 167.89,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14857.2,
+        "smoke": 106266.72,
+        "alcohol": 415.72,
+        "methane": 0.7,
+        "co": 167.81,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14847.97,
+        "smoke": 106293.84,
+        "alcohol": 415.7,
+        "methane": 0.7,
+        "co": 167.86,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14851.95,
+        "smoke": 106321.29,
+        "alcohol": 415.39,
+        "methane": 0.7,
+        "co": 168.12,
+        "flammable_gas": 64.65
+    },
+    {
+        "lpg": 14849.34,
+        "smoke": 106353.06,
+        "alcohol": 416.17,
+        "methane": 0.7,
+        "co": 168.1,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14857.07,
+        "smoke": 106355.67,
+        "alcohol": 415.49,
+        "methane": 0.7,
+        "co": 167.97,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14850.83,
+        "smoke": 106290.41,
+        "alcohol": 415.95,
+        "methane": 0.7,
+        "co": 167.99,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14855.37,
+        "smoke": 106324.68,
+        "alcohol": 415.72,
+        "methane": 0.7,
+        "co": 167.88,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14868.19,
+        "smoke": 106314.23,
+        "alcohol": 415.65,
+        "methane": 0.7,
+        "co": 168.05,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14866.9,
+        "smoke": 106322.5,
+        "alcohol": 415.96,
+        "methane": 0.7,
+        "co": 168.12,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14859.2,
+        "smoke": 106447.85,
+        "alcohol": 416.03,
+        "methane": 0.7,
+        "co": 168.0,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14849.99,
+        "smoke": 106464.84,
+        "alcohol": 415.9,
+        "methane": 0.7,
+        "co": 167.83,
+        "flammable_gas": 64.69
+    },
+    {
+        "lpg": 14862.76,
+        "smoke": 106355.13,
+        "alcohol": 415.62,
+        "methane": 0.7,
+        "co": 167.87,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14841.29,
+        "smoke": 106344.76,
+        "alcohol": 415.87,
+        "methane": 0.7,
+        "co": 167.94,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14842.29,
+        "smoke": 106373.97,
+        "alcohol": 415.41,
+        "methane": 0.7,
+        "co": 167.87,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14847.8,
+        "smoke": 106407.74,
+        "alcohol": 416.04,
+        "methane": 0.7,
+        "co": 167.95,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14859.58,
+        "smoke": 106263.43,
+        "alcohol": 415.67,
+        "methane": 0.7,
+        "co": 168.04,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14862.39,
+        "smoke": 106286.92,
+        "alcohol": 415.86,
+        "methane": 0.7,
+        "co": 168.06,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14860.43,
+        "smoke": 106424.09,
+        "alcohol": 415.86,
+        "methane": 0.7,
+        "co": 167.9,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14854.67,
+        "smoke": 106379.37,
+        "alcohol": 415.76,
+        "methane": 0.7,
+        "co": 168.06,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14860.3,
+        "smoke": 106349.56,
+        "alcohol": 416.13,
+        "methane": 0.7,
+        "co": 168.05,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14851.07,
+        "smoke": 106393.03,
+        "alcohol": 415.64,
+        "methane": 0.7,
+        "co": 167.85,
+        "flammable_gas": 64.67
+    },
+    {
+        "lpg": 14863.67,
+        "smoke": 106263.47,
+        "alcohol": 415.84,
+        "methane": 0.7,
+        "co": 168.12,
+        "flammable_gas": 64.57
+    },
+    {
+        "lpg": 14843.26,
+        "smoke": 106261.52,
+        "alcohol": 415.59,
+        "methane": 0.7,
+        "co": 168.05,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14851.36,
+        "smoke": 106367.55,
+        "alcohol": 415.79,
+        "methane": 0.7,
+        "co": 167.83,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14841.07,
+        "smoke": 106377.24,
+        "alcohol": 415.61,
+        "methane": 0.7,
+        "co": 167.98,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14850.64,
+        "smoke": 106258.6,
+        "alcohol": 416.18,
+        "methane": 0.7,
+        "co": 168.0,
+        "flammable_gas": 64.57
+    },
+    {
+        "lpg": 14851.71,
+        "smoke": 106397.16,
+        "alcohol": 416.11,
+        "methane": 0.7,
+        "co": 167.94,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14852.69,
+        "smoke": 106459.2,
+        "alcohol": 415.73,
+        "methane": 0.7,
+        "co": 168.04,
+        "flammable_gas": 64.69
+    },
+    {
+        "lpg": 14843.19,
+        "smoke": 106372.45,
+        "alcohol": 415.7,
+        "methane": 0.7,
+        "co": 168.12,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14842.12,
+        "smoke": 106419.46,
+        "alcohol": 415.85,
+        "methane": 0.7,
+        "co": 167.92,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14842.73,
+        "smoke": 106344.66,
+        "alcohol": 415.66,
+        "methane": 0.7,
+        "co": 168.0,
+        "flammable_gas": 64.61
+    },
+    {
+        "lpg": 14852.85,
+        "smoke": 106443.56,
+        "alcohol": 415.58,
+        "methane": 0.7,
+        "co": 167.98,
+        "flammable_gas": 64.68
+    },
+    {
+        "lpg": 14869.48,
+        "smoke": 106391.51,
+        "alcohol": 416.19,
+        "methane": 0.7,
+        "co": 167.9,
+        "flammable_gas": 64.69
+    },
+    {
+        "lpg": 14846.31,
+        "smoke": 106413.16,
+        "alcohol": 416.06,
+        "methane": 0.7,
+        "co": 167.97,
+        "flammable_gas": 64.65
+    },
+    {
+        "lpg": 14848.8,
+        "smoke": 106417.0,
+        "alcohol": 415.45,
+        "methane": 0.7,
+        "co": 167.95,
+        "flammable_gas": 64.62
+    },
+    {
+        "lpg": 14842.11,
+        "smoke": 106363.01,
+        "alcohol": 415.55,
+        "methane": 0.7,
+        "co": 168.01,
+        "flammable_gas": 64.59
+    },
+    {
+        "lpg": 14844.67,
+        "smoke": 106443.9,
+        "alcohol": 415.77,
+        "methane": 0.7,
+        "co": 168.0,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14860.71,
+        "smoke": 106255.98,
+        "alcohol": 415.56,
+        "methane": 0.7,
+        "co": 167.99,
+        "flammable_gas": 64.69
+    },
+    {
+        "lpg": 14854.65,
+        "smoke": 106425.67,
+        "alcohol": 415.42,
+        "methane": 0.7,
+        "co": 167.82,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14843.2,
+        "smoke": 106357.77,
+        "alcohol": 415.82,
+        "methane": 0.7,
+        "co": 167.88,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14842.62,
+        "smoke": 106279.93,
+        "alcohol": 415.9,
+        "methane": 0.7,
+        "co": 167.86,
+        "flammable_gas": 64.58
+    },
+    {
+        "lpg": 14855.3,
+        "smoke": 106363.25,
+        "alcohol": 415.49,
+        "methane": 0.7,
+        "co": 168.04,
+        "flammable_gas": 64.64
+    },
+    {
+        "lpg": 14851.56,
+        "smoke": 106310.55,
+        "alcohol": 415.96,
+        "methane": 0.7,
+        "co": 168.09,
+        "flammable_gas": 64.69
+    },
+    {
+        "lpg": 14859.38,
+        "smoke": 106341.57,
+        "alcohol": 415.85,
+        "methane": 0.7,
+        "co": 168.13,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14850.44,
+        "smoke": 106445.06,
+        "alcohol": 415.61,
+        "methane": 0.7,
+        "co": 168.03,
+        "flammable_gas": 64.63
+    },
+    {
+        "lpg": 14868.97,
+        "smoke": 106320.14,
+        "alcohol": 415.57,
+        "methane": 0.7,
+        "co": 167.94,
+        "flammable_gas": 64.6
+    },
+    {
+        "lpg": 14869.38,
+        "smoke": 106400.22,
+        "alcohol": 416.17,
+        "methane": 0.7,
+        "co": 168.08,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14850.39,
+        "smoke": 106424.51,
+        "alcohol": 415.38,
+        "methane": 0.7,
+        "co": 167.9,
+        "flammable_gas": 64.66
+    },
+    {
+        "lpg": 14841.34,
+        "smoke": 106308.65,
+        "alcohol": 415.83,
+        "methane": 0.7,
+        "co": 168.04,
+        "flammable_gas": 64.66
+    }
+]   

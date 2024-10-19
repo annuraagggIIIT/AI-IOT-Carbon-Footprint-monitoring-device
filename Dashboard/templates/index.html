@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gas Emission Dashboard</title>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script src="/static/js/app.js" defer></script>
+
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            width: 100%;
+            overflow: hidden;
+            background-color: #121212; /* Dark background */
+            color: #ffffff; /* Light text */
+            font-family: Arial, sans-serif;
+        }
+
+        #gas-plot {
+            position: absolute;
+            width: 90%;
+            height: 80%; 
+        }
+
+        #alerts {
+            position: absolute;
+            top: 80%;
+            width: 90%;
+            height: 15%;
+            background-color: #1e1e1e; /* Slightly lighter dark background */
+            border-radius: 5px;
+            padding: 10px;
+            overflow: auto;
+        }
+
+        .alert {
+            margin: 5px 0;
+            padding: 5px;
+            border-radius: 3px;
+        }
+
+        .warning {
+            background-color: #ff9800; /* Orange for warnings */
+        }
+
+        .danger {
+            background-color: #f44336; /* Red for danger */
+        }
+
+        #safety-status {
+            position: absolute;
+            top: 90%;
+            right: 5%;
+            background-color: #1e1e1e;
+            padding: 10px;
+            border-radius: 5px;
+            width: 200px;
+        }
+  /* Navbar styles */
+  #navbar {
+            background-color: #1e1e1e;
+            padding: 10px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        #navbar h1 {
+            margin: 0;
+            font-size: 20px;
+            color: #ffffff;
+        }
+
+        #navbar a {
+            color: #ffffff;
+            text-decoration: none;
+            padding: 10px;
+            border-radius: 5px;
+        }
+
+        #navbar a:hover {
+            background-color: #333; /* Change background on hover */
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 10px;
+        }
+
+        th, td {
+            padding: 8px;
+            text-align: left;
+            border-bottom: 1px solid #ccc;
+        }
+
+        th {
+            background-color: #333;
+        }
+
+        #fuel-quality {
+            position: absolute;
+            top: 90%;
+            left: 5%;
+            background-color: #1e1e1e;
+            padding: 10px;
+            border-radius: 5px;
+            width: 200px;
+        }
+    </style>
+</head>
+<body>
+    <div id="navbar">
+        <h1>AI-Driven IoT Prototype for Carbon Footprint and Air Quality Monitoring in Automobiles</h1>
+        <div>
+            <a href="#gas-plot">Dashboard</a>
+            <a href="#alerts">Alerts</a>
+            <a href="#fuel-quality">Fuel Quality</a>
+            <a href="#safety-status">Safety Status</a>
+        </div>
+    </div>  
+    <div id="gas-plot"></div>
+    <div id="alerts"></div> <!-- Alerts section -->
+    <div id="fuel-quality">Fuel Quality: Good</div> <!-- Fuel quality section -->
+    <div id="safety-status">
+        <table>
+            <tr>
+                <th>Safety Status</th>
+                <td id="safety-indicator">Safe</td>
+            </tr>
+        </table>
+    </div>
+
+</body>
+</html>

@@ -1,0 +1,650 @@
+[
+    {
+        "lpg": 140.12,
+        "smoke": 729.97,
+        "alcohol": 165.67,
+        "methane": 0.11,
+        "co": 0.81,
+        "flammable_gas": 1.05,
+        "timestamp": "2024-10-19 09:01:47"
+    },
+    {
+        "lpg": 130.71,
+        "smoke": 677.7,
+        "alcohol": 151.81,
+        "methane": 0.08,
+        "co": 0.88,
+        "flammable_gas": 1.12,
+        "timestamp": "2024-10-19 09:01:51"
+    },
+    {
+        "lpg": 119.61,
+        "smoke": 616.42,
+        "alcohol": 160.91,
+        "methane": 0.07,
+        "co": 0.87,
+        "flammable_gas": 1.11,
+        "timestamp": "2024-10-19 09:01:55"
+    },
+    {
+        "lpg": 111.53,
+        "smoke": 572.08,
+        "alcohol": 159.91,
+        "methane": 0.05,
+        "co": 0.87,
+        "flammable_gas": 1.11,
+        "timestamp": "2024-10-19 09:01:59"
+    },
+    {
+        "lpg": 104.61,
+        "smoke": 534.24,
+        "alcohol": 157.6,
+        "methane": 0.04,
+        "co": 0.67,
+        "flammable_gas": 0.9,
+        "timestamp": "2024-10-19 09:02:03"
+    },
+    {
+        "lpg": 99.15,
+        "smoke": 504.49,
+        "alcohol": 156.95,
+        "methane": 0.04,
+        "co": 0.5,
+        "flammable_gas": 0.72,
+        "timestamp": "2024-10-19 09:02:07"
+    },
+    {
+        "lpg": 93.57,
+        "smoke": 474.21,
+        "alcohol": 156.29,
+        "methane": 0.03,
+        "co": 0.39,
+        "flammable_gas": 0.59,
+        "timestamp": "2024-10-19 09:02:11"
+    },
+    {
+        "lpg": 87.51,
+        "smoke": 441.52,
+        "alcohol": 152.13,
+        "methane": 0.03,
+        "co": 0.3,
+        "flammable_gas": 0.48,
+        "timestamp": "2024-10-19 09:02:15"
+    },
+    {
+        "lpg": 83.67,
+        "smoke": 420.82,
+        "alcohol": 155.0,
+        "methane": 0.02,
+        "co": 0.23,
+        "flammable_gas": 0.4,
+        "timestamp": "2024-10-19 09:02:19"
+    },
+    {
+        "lpg": 80.58,
+        "smoke": 404.25,
+        "alcohol": 152.44,
+        "methane": 0.02,
+        "co": 0.19,
+        "flammable_gas": 0.35,
+        "timestamp": "2024-10-19 09:02:23"
+    },
+    {
+        "lpg": 76.73,
+        "smoke": 383.63,
+        "alcohol": 149.62,
+        "methane": 0.02,
+        "co": 0.17,
+        "flammable_gas": 0.31,
+        "timestamp": "2024-10-19 09:02:27"
+    },
+    {
+        "lpg": 74.1,
+        "smoke": 369.63,
+        "alcohol": 151.5,
+        "methane": 0.01,
+        "co": 0.14,
+        "flammable_gas": 0.27,
+        "timestamp": "2024-10-19 09:02:31"
+    },
+    {
+        "lpg": 70.44,
+        "smoke": 350.15,
+        "alcohol": 148.07,
+        "methane": 0.01,
+        "co": 0.13,
+        "flammable_gas": 0.25,
+        "timestamp": "2024-10-19 09:02:35"
+    },
+    {
+        "lpg": 68.53,
+        "smoke": 340.01,
+        "alcohol": 149.62,
+        "methane": 0.01,
+        "co": 0.11,
+        "flammable_gas": 0.22,
+        "timestamp": "2024-10-19 09:02:39"
+    },
+    {
+        "lpg": 67.13,
+        "smoke": 332.63,
+        "alcohol": 148.69,
+        "methane": 0.01,
+        "co": 0.09,
+        "flammable_gas": 0.2,
+        "timestamp": "2024-10-19 09:02:43"
+    },
+    {
+        "lpg": 64.0,
+        "smoke": 316.1,
+        "alcohol": 148.07,
+        "methane": 0.01,
+        "co": 0.08,
+        "flammable_gas": 0.18,
+        "timestamp": "2024-10-19 09:02:47"
+    },
+    {
+        "lpg": 63.0,
+        "smoke": 310.79,
+        "alcohol": 146.85,
+        "methane": 0.01,
+        "co": 0.07,
+        "flammable_gas": 0.16,
+        "timestamp": "2024-10-19 09:02:51"
+    },
+    {
+        "lpg": 61.32,
+        "smoke": 301.93,
+        "alcohol": 147.76,
+        "methane": 0.01,
+        "co": 0.07,
+        "flammable_gas": 0.15,
+        "timestamp": "2024-10-19 09:02:55"
+    },
+    {
+        "lpg": 60.09,
+        "smoke": 295.47,
+        "alcohol": 146.54,
+        "methane": 0.01,
+        "co": 0.06,
+        "flammable_gas": 0.15,
+        "timestamp": "2024-10-19 09:02:59"
+    },
+    {
+        "lpg": 59.02,
+        "smoke": 289.86,
+        "alcohol": 146.54,
+        "methane": 0.01,
+        "co": 0.06,
+        "flammable_gas": 0.13,
+        "timestamp": "2024-10-19 09:03:03"
+    },
+    {
+        "lpg": 57.07,
+        "smoke": 279.65,
+        "alcohol": 156.62,
+        "methane": 0.01,
+        "co": 0.05,
+        "flammable_gas": 0.13,
+        "timestamp": "2024-10-19 09:03:07"
+    },
+    {
+        "lpg": 56.56,
+        "smoke": 277.0,
+        "alcohol": 145.63,
+        "methane": 0.01,
+        "co": 0.05,
+        "flammable_gas": 0.12,
+        "timestamp": "2024-10-19 09:03:11"
+    },
+    {
+        "lpg": 55.56,
+        "smoke": 271.78,
+        "alcohol": 144.72,
+        "methane": 0.0,
+        "co": 0.05,
+        "flammable_gas": 0.11,
+        "timestamp": "2024-10-19 09:03:15"
+    },
+    {
+        "lpg": 53.86,
+        "smoke": 262.9,
+        "alcohol": 139.7,
+        "methane": 0.0,
+        "co": 0.04,
+        "flammable_gas": 0.11,
+        "timestamp": "2024-10-19 09:03:19"
+    },
+    {
+        "lpg": 52.11,
+        "smoke": 253.75,
+        "alcohol": 144.42,
+        "methane": 0.0,
+        "co": 0.04,
+        "flammable_gas": 0.1,
+        "timestamp": "2024-10-19 09:03:23"
+    },
+    {
+        "lpg": 51.99,
+        "smoke": 253.15,
+        "alcohol": 141.45,
+        "methane": 0.0,
+        "co": 0.04,
+        "flammable_gas": 0.1,
+        "timestamp": "2024-10-19 09:03:27"
+    },
+    {
+        "lpg": 51.99,
+        "smoke": 253.15,
+        "alcohol": 140.87,
+        "methane": 0.0,
+        "co": 0.04,
+        "flammable_gas": 0.1,
+        "timestamp": "2024-10-19 09:03:31"
+    },
+    {
+        "lpg": 51.08,
+        "smoke": 248.42,
+        "alcohol": 140.57,
+        "methane": 0.0,
+        "co": 0.04,
+        "flammable_gas": 0.09,
+        "timestamp": "2024-10-19 09:03:35"
+    },
+    {
+        "lpg": 50.63,
+        "smoke": 246.1,
+        "alcohol": 140.57,
+        "methane": 0.0,
+        "co": 0.03,
+        "flammable_gas": 0.09,
+        "timestamp": "2024-10-19 09:03:39"
+    },
+    {
+        "lpg": 48.88,
+        "smoke": 237.03,
+        "alcohol": 138.83,
+        "methane": 0.0,
+        "co": 0.03,
+        "flammable_gas": 0.08,
+        "timestamp": "2024-10-19 09:03:43"
+    },
+    {
+        "lpg": 48.99,
+        "smoke": 237.58,
+        "alcohol": 134.57,
+        "methane": 0.0,
+        "co": 0.05,
+        "flammable_gas": 0.12,
+        "timestamp": "2024-10-19 09:03:47"
+    },
+    {
+        "lpg": 48.04,
+        "smoke": 232.63,
+        "alcohol": 138.83,
+        "methane": 0.0,
+        "co": 0.03,
+        "flammable_gas": 0.08,
+        "timestamp": "2024-10-19 09:03:51"
+    },
+    {
+        "lpg": 47.41,
+        "smoke": 229.39,
+        "alcohol": 138.26,
+        "methane": 0.0,
+        "co": 0.03,
+        "flammable_gas": 0.07,
+        "timestamp": "2024-10-19 09:03:55"
+    },
+    {
+        "lpg": 46.89,
+        "smoke": 226.73,
+        "alcohol": 137.4,
+        "methane": 0.0,
+        "co": 0.03,
+        "flammable_gas": 0.07,
+        "timestamp": "2024-10-19 09:03:59"
+    },
+    {
+        "lpg": 47.41,
+        "smoke": 229.39,
+        "alcohol": 140.28,
+        "methane": 0.0,
+        "co": 0.03,
+        "flammable_gas": 0.07,
+        "timestamp": "2024-10-19 09:04:03"
+    },
+    {
+        "lpg": 47.0,
+        "smoke": 227.26,
+        "alcohol": 137.11,
+        "methane": 0.0,
+        "co": 0.02,
+        "flammable_gas": 0.07,
+        "timestamp": "2024-10-19 09:04:07"
+    },
+    {
+        "lpg": 46.59,
+        "smoke": 225.15,
+        "alcohol": 137.11,
+        "methane": 0.0,
+        "co": 0.02,
+        "flammable_gas": 0.07,
+        "timestamp": "2024-10-19 09:04:11"
+    },
+    {
+        "lpg": 46.69,
+        "smoke": 225.68,
+        "alcohol": 134.57,
+        "methane": 0.0,
+        "co": 0.02,
+        "flammable_gas": 0.07,
+        "timestamp": "2024-10-19 09:04:15"
+    },
+    {
+        "lpg": 46.39,
+        "smoke": 224.11,
+        "alcohol": 134.57,
+        "methane": 0.0,
+        "co": 0.02,
+        "flammable_gas": 0.07,
+        "timestamp": "2024-10-19 09:04:19"
+    },
+    {
+        "lpg": 45.78,
+        "smoke": 221.0,
+        "alcohol": 136.26,
+        "methane": 0.0,
+        "co": 0.02,
+        "flammable_gas": 0.06,
+        "timestamp": "2024-10-19 09:04:23"
+    },
+    {
+        "lpg": 45.48,
+        "smoke": 219.46,
+        "alcohol": 136.54,
+        "methane": 0.0,
+        "co": 0.02,
+        "flammable_gas": 0.06,
+        "timestamp": "2024-10-19 09:04:27"
+    },
+    {
+        "lpg": 45.29,
+        "smoke": 218.44,
+        "alcohol": 134.01,
+        "methane": 0.0,
+        "co": 0.02,
+        "flammable_gas": 0.06,
+        "timestamp": "2024-10-19 09:04:31"
+    },
+    {
+        "lpg": 44.6,
+        "smoke": 214.92,
+        "alcohol": 134.01,
+        "methane": 0.0,
+        "co": 0.02,
+        "flammable_gas": 0.06,
+        "timestamp": "2024-10-19 09:04:35"
+    },
+    {
+        "lpg": 44.41,
+        "smoke": 213.93,
+        "alcohol": 133.18,
+        "methane": 0.0,
+        "co": 0.02,
+        "flammable_gas": 0.06,
+        "timestamp": "2024-10-19 09:04:39"
+    },
+    {
+        "lpg": 44.9,
+        "smoke": 216.42,
+        "alcohol": 135.41,
+        "methane": 0.0,
+        "co": 0.02,
+        "flammable_gas": 0.06,
+        "timestamp": "2024-10-19 09:04:43"
+    },
+    {
+        "lpg": 44.99,
+        "smoke": 216.93,
+        "alcohol": 134.57,
+        "methane": 0.0,
+        "co": 0.02,
+        "flammable_gas": 0.06,
+        "timestamp": "2024-10-19 09:04:47"
+    },
+    {
+        "lpg": 44.99,
+        "smoke": 216.93,
+        "alcohol": 134.01,
+        "methane": 0.0,
+        "co": 0.02,
+        "flammable_gas": 0.06,
+        "timestamp": "2024-10-19 09:04:51"
+    },
+    {
+        "lpg": 44.22,
+        "smoke": 212.94,
+        "alcohol": 134.01,
+        "methane": 0.0,
+        "co": 0.02,
+        "flammable_gas": 0.06,
+        "timestamp": "2024-10-19 09:04:55"
+    },
+    {
+        "lpg": 44.03,
+        "smoke": 211.95,
+        "alcohol": 134.29,
+        "methane": 0.0,
+        "co": 0.02,
+        "flammable_gas": 0.06,
+        "timestamp": "2024-10-19 09:04:59"
+    },
+    {
+        "lpg": 43.93,
+        "smoke": 211.46,
+        "alcohol": 134.01,
+        "methane": 0.0,
+        "co": 0.02,
+        "flammable_gas": 0.05,
+        "timestamp": "2024-10-19 09:05:03"
+    },
+    {
+        "lpg": 43.74,
+        "smoke": 210.48,
+        "alcohol": 133.18,
+        "methane": 0.0,
+        "co": 0.02,
+        "flammable_gas": 0.05,
+        "timestamp": "2024-10-19 09:05:07"
+    },
+    {
+        "lpg": 43.84,
+        "smoke": 210.97,
+        "alcohol": 133.46,
+        "methane": 0.0,
+        "co": 0.01,
+        "flammable_gas": 0.04,
+        "timestamp": "2024-10-19 09:05:11"
+    },
+    {
+        "lpg": 43.08,
+        "smoke": 207.1,
+        "alcohol": 130.17,
+        "methane": 0.0,
+        "co": 0.02,
+        "flammable_gas": 0.05,
+        "timestamp": "2024-10-19 09:05:15"
+    },
+    {
+        "lpg": 43.84,
+        "smoke": 210.97,
+        "alcohol": 132.9,
+        "methane": 0.0,
+        "co": 0.02,
+        "flammable_gas": 0.05,
+        "timestamp": "2024-10-19 09:05:19"
+    },
+    {
+        "lpg": 43.84,
+        "smoke": 210.97,
+        "alcohol": 132.9,
+        "methane": 0.0,
+        "co": 0.02,
+        "flammable_gas": 0.05,
+        "timestamp": "2024-10-19 09:05:23"
+    },
+    {
+        "lpg": 43.46,
+        "smoke": 209.03,
+        "alcohol": 132.63,
+        "methane": 0.0,
+        "co": 0.02,
+        "flammable_gas": 0.05,
+        "timestamp": "2024-10-19 09:05:27"
+    },
+    {
+        "lpg": 43.27,
+        "smoke": 208.06,
+        "alcohol": 132.08,
+        "methane": 0.0,
+        "co": 0.02,
+        "flammable_gas": 0.05,
+        "timestamp": "2024-10-19 09:05:31"
+    },
+    {
+        "lpg": 43.18,
+        "smoke": 207.58,
+        "alcohol": 132.08,
+        "methane": 0.0,
+        "co": 0.02,
+        "flammable_gas": 0.05,
+        "timestamp": "2024-10-19 09:05:35"
+    },
+    {
+        "lpg": 43.55,
+        "smoke": 209.51,
+        "alcohol": 131.25,
+        "methane": 0.0,
+        "co": 0.01,
+        "flammable_gas": 0.05,
+        "timestamp": "2024-10-19 09:05:39"
+    },
+    {
+        "lpg": 43.46,
+        "smoke": 209.03,
+        "alcohol": 131.8,
+        "methane": 0.0,
+        "co": 0.02,
+        "flammable_gas": 0.05,
+        "timestamp": "2024-10-19 09:05:43"
+    },
+    {
+        "lpg": 43.36,
+        "smoke": 208.54,
+        "alcohol": 129.63,
+        "methane": 0.0,
+        "co": 0.02,
+        "flammable_gas": 0.05,
+        "timestamp": "2024-10-19 09:05:47"
+    },
+    {
+        "lpg": 43.65,
+        "smoke": 210.0,
+        "alcohol": 131.8,
+        "methane": 0.0,
+        "co": 0.02,
+        "flammable_gas": 0.05,
+        "timestamp": "2024-10-19 09:05:51"
+    },
+    {
+        "lpg": 42.71,
+        "smoke": 205.2,
+        "alcohol": 131.8,
+        "methane": 0.0,
+        "co": 0.02,
+        "flammable_gas": 0.06,
+        "timestamp": "2024-10-19 09:05:55"
+    },
+    {
+        "lpg": 43.46,
+        "smoke": 209.03,
+        "alcohol": 130.17,
+        "methane": 0.0,
+        "co": 0.01,
+        "flammable_gas": 0.05,
+        "timestamp": "2024-10-19 09:05:59"
+    },
+    {
+        "lpg": 42.99,
+        "smoke": 206.62,
+        "alcohol": 130.71,
+        "methane": 0.0,
+        "co": 0.01,
+        "flammable_gas": 0.05,
+        "timestamp": "2024-10-19 09:06:03"
+    },
+    {
+        "lpg": 43.55,
+        "smoke": 209.51,
+        "alcohol": 128.29,
+        "methane": 0.0,
+        "co": 0.01,
+        "flammable_gas": 0.05,
+        "timestamp": "2024-10-19 09:06:07"
+    },
+    {
+        "lpg": 43.27,
+        "smoke": 208.06,
+        "alcohol": 129.9,
+        "methane": 0.0,
+        "co": 0.01,
+        "flammable_gas": 0.05,
+        "timestamp": "2024-10-19 09:06:11"
+    },
+    {
+        "lpg": 42.9,
+        "smoke": 206.15,
+        "alcohol": 130.98,
+        "methane": 0.0,
+        "co": 0.01,
+        "flammable_gas": 0.05,
+        "timestamp": "2024-10-19 09:06:15"
+    },
+    {
+        "lpg": 42.8,
+        "smoke": 205.67,
+        "alcohol": 130.17,
+        "methane": 0.0,
+        "co": 0.01,
+        "flammable_gas": 0.04,
+        "timestamp": "2024-10-19 09:06:19"
+    },
+    {
+        "lpg": 42.62,
+        "smoke": 204.72,
+        "alcohol": 130.71,
+        "methane": 0.0,
+        "co": 0.01,
+        "flammable_gas": 0.04,
+        "timestamp": "2024-10-19 09:06:23"
+    },
+    {
+        "lpg": 42.43,
+        "smoke": 203.78,
+        "alcohol": 129.9,
+        "methane": 0.0,
+        "co": 0.01,
+        "flammable_gas": 0.04,
+        "timestamp": "2024-10-19 09:06:27"
+    },
+    {
+        "lpg": 42.43,
+        "smoke": 203.78,
+        "alcohol": 134.85,
+        "methane": 0.0,
+        "co": 0.01,
+        "flammable_gas": 0.04,
+        "timestamp": "2024-10-19 09:06:31"
+    }
+]
